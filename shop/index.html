@@ -579,7 +579,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <aside class="shop-ban-moi">
       <div>
         <strong>Bản mới: True Vegan Protein Pro hộp 22 gói chia sẵn &mdash; đang bán</strong>
-        <p>Hộp 22 gói x 22g (484g), số tự công bố 03/HOPECORP/2026, chiết khấu 15%, gọi 098 793 1551 để được tư vấn. Giao hàng toàn quốc, nhận hàng trả tiền hoặc chuyển khoản trước. Bản hũ 500g cũ đã ngừng bán.</p>
+        <p>Hộp 22 gói x 22g (484g), số tự công bố 03/HOPECORP/2026, chiết khấu tới 12%, gọi 098 793 1551 để được tư vấn. Giao hàng toàn quốc, nhận hàng trả tiền hoặc chuyển khoản trước. Bản hũ 500g cũ đã ngừng bán.</p>
       </div>
       <a href="?sp=dam" data-go="detail-flagship">Đặt hàng tại cửa hàng &rarr;</a>
     </aside>
@@ -862,7 +862,7 @@ function card(p){
       <div class="certs">${certs}</div>
       <div class="pname">${p.n}</div>
       <div class="ptag">${p.t}</div>
-      <div class="prow"><div><div class="price">${giaHien(p,'Chiết khấu 15%')}</div>${laHetHang(p)?'<span class="het-hang">'+nhanKhongBan(p)+'</span>':laDatTruoc(p)?'<span class="het-hang dat-truoc">'+nhanDatTruoc(p)+'</span>':''}</div>
+      <div class="prow"><div><div class="price">${giaHien(p,'Chiết khấu tới 12%')}</div>${laHetHang(p)?'<span class="het-hang">'+nhanKhongBan(p)+'</span>':laDatTruoc(p)?'<span class="het-hang dat-truoc">'+nhanDatTruoc(p)+'</span>':''}</div>
         <button class="addbtn">Tư vấn</button></div>
     </div>
   </article>`;
@@ -928,7 +928,7 @@ function openDetail(p){
   document.getElementById('pdpTitle').textContent=p.n;
   document.getElementById('pdpSubt').textContent=p.intro||p.desc||p.t;
   document.getElementById('pdpCerts').innerHTML=(p.certs||[]).map(c=>`<span>${check}${c}</span>`).join('');
-  document.getElementById('pdpPrice').textContent=giaHien(p,'Chiết khấu 15%');
+  document.getElementById('pdpPrice').textContent=giaHien(p,'Chiết khấu tới 12%');
   var nhanHet=document.getElementById('pdpHetHang'); if(nhanHet){ nhanHet.hidden=!(laHetHang(p)||laDatTruoc(p)); nhanHet.textContent=laHetHang(p)?nhanKhongBan(p):laDatTruoc(p)?nhanDatTruoc(p)+'. Hiện nhận đặt trước, chưa thu tiền.':''; nhanHet.classList.toggle('dat-truoc',!laHetHang(p)&&laDatTruoc(p)); }
   document.getElementById('pdpPhoto').src=p.img;
   document.getElementById('pdpPhoto').alt=p.n;
