@@ -98,7 +98,7 @@ Sầu riêng có những điểm cộng thật, miễn là đặt chúng đúng 
 
 **Vitamin nhóm B và vitamin C.** Có, nhưng không nên coi sầu riêng là nguồn vitamin C chính. Ổi, cam, bưởi cho nhiều vitamin C hơn mà ít năng lượng hơn nhiều.
 
-Những bài trên mạng hay liệt kê thêm sầu riêng "chống lão hoá", "tốt cho tim mạch", "ngừa ung thư". Các nghiên cứu đó phần lớn làm trên dịch chiết trong ống nghiệm hoặc trên động vật, chưa đủ để nói một múi sầu riêng ở bàn ăn tạo ra tác dụng tương tự trên người. Chúng tôi không đưa những khẳng định đó vào bài.
+Những bài trên mạng hay liệt kê thêm sầu riêng "chống lão hoá", "tốt cho tim mạch". Các nghiên cứu đó phần lớn làm trên dịch chiết trong ống nghiệm hoặc trên động vật, chưa đủ để nói một múi sầu riêng ở bàn ăn tạo ra tác dụng tương tự trên người. Chúng tôi không đưa những khẳng định đó vào bài.
 
 ## Ăn bao nhiêu là vừa: con số cụ thể cho chị em
 
