@@ -1,9 +1,9 @@
 ---json
 {
-  "title": "Súp lơ xanh có tác dụng gì? Dinh dưỡng thật, cách chọn ở chợ và cách nấu giữ chất",
+  "title": "Súp lơ xanh có tác dụng gì? Dinh dưỡng và cách nấu giữ chất",
   "seo_title": "Súp lơ xanh có tác dụng gì? Dinh dưỡng và cách nấu giữ chất",
   "slug": "sup-lo-xanh-co-tac-dung-gi",
-  "description": "Súp lơ xanh có tác dụng gì? Số liệu vitamin C, K, chất xơ, cách nấu giữ chất theo nghiên cứu, ai cần lưu ý và thực đơn eat clean 1 ngày có súp lơ.",
+  "description": "Súp lơ xanh có tác dụng gì? Vitamin C, K, chất xơ, mức hao theo từng cách nấu, ai cần lưu ý, kèm thực đơn mẫu 1 ngày. Đọc ngay để nấu đúng, ăn đủ.",
   "keyword": "súp lơ xanh có tác dụng gì",
   "category": "Dinh dưỡng & ăn uống",
   "date": "2026-11-22",
@@ -13,11 +13,11 @@
   "hero_alt": "Bông súp lơ xanh tươi trên thớt gỗ trong căn bếp Việt",
   "reading_min": 14,
   "khuyen_cao": ["dam"],
-  "answer": "Súp lơ xanh (bông cải xanh) là loại rau ít năng lượng nhưng giàu vitamin C, vitamin K, folate và chất xơ: khoảng 100 g súp lơ sống cho gần hoặc đủ nhu cầu vitamin C của cả ngày (khoảng 89 mg so với mức khuyến nghị 75–90 mg). Giá trị của nó nằm ở việc ăn đều trong bữa cơm và nấu ngắn bằng hấp hoặc xào nhanh.",
+  "answer": "Súp lơ xanh (bông cải xanh) là loại rau ít năng lượng nhưng giàu vitamin C, vitamin K, folate và chất xơ. 100 g súp lơ sống có khoảng 89 mg vitamin C, đủ cho cả ngày với nữ (75 mg) và gần đủ với nam (90 mg). Muốn giữ được lượng vitamin này thì chọn cây tươi, nấu ngắn bằng hấp hoặc xào nhanh và ăn đều trong bữa cơm.",
   "faq": [
     {"q": "Súp lơ xanh và súp lơ trắng khác nhau thế nào về dinh dưỡng?", "a": "Theo FoodData Central (USDA), 100 g súp lơ trắng sống có khoảng 25 kcal, 48 mg vitamin C và 16 microgam vitamin K, trong khi súp lơ xanh có khoảng 89 mg vitamin C và 100 microgam vitamin K. Súp lơ trắng vẫn là rau tốt, chỉ là súp lơ xanh đậm vi chất hơn. Bảng đầy đủ của súp lơ xanh ở mục [Trong 100 g súp lơ xanh có gì](#trong-100-g-sup-lo-xanh-co-gi-con-so-cu-the)."},
-    {"q": "Ăn súp lơ xanh sống có tốt hơn nấu chín không?", "a": "Sống giữ trọn vitamin C và enzym myrosinase, nhưng khó tiêu hơn với nhiều người và dễ gây đầy hơi. Hấp ngắn là điểm cân bằng: theo một nghiên cứu so sánh năm cách nấu, hấp năm phút gần như không làm giảm vitamin C. Chi tiết từng cách nấu ở mục [Nấu thế nào để súp lơ giữ được nhiều chất nhất](#nau-the-nao-de-sup-lo-giu-duoc-nhieu-chat-nhat)."},
-    {"q": "Mỗi ngày nên ăn bao nhiêu súp lơ xanh?", "a": "Không có con số riêng cho súp lơ. WHO khuyến nghị tổng cộng ít nhất 400 g rau quả mỗi ngày; một phần súp lơ khoảng 80–100 g là một trong bốn, năm phần đó, phần còn lại nên là các loại rau quả khác màu. Cách chia vào ba bữa xem ở mục [Thực đơn eat clean 1 ngày có súp lơ xanh](#thuc-don-eat-clean-1-ngay-co-sup-lo-xanh)."}
+    {"q": "Ăn súp lơ xanh sống có tốt hơn nấu chín không?", "a": "Sống giữ trọn vitamin C và enzym myrosinase, nhưng khó tiêu hơn với nhiều người và dễ gây đầy hơi. Hấp ngắn là điểm cân bằng giữa giữ chất và dễ tiêu. Mức hao của từng cách nấu ở mục [Nấu thế nào để súp lơ giữ được nhiều chất nhất](#nau-the-nao-de-sup-lo-giu-duoc-nhieu-chat-nhat)."},
+    {"q": "Mỗi ngày nên ăn bao nhiêu súp lơ xanh?", "a": "Không có con số riêng cho súp lơ. WHO khuyến nghị tổng cộng ít nhất 400 g rau quả mỗi ngày; một phần súp lơ khoảng 80–100 g là một trong bốn, năm phần đó, phần còn lại nên là các loại rau quả khác màu. Cách chia vào ba bữa xem ở mục [Thực đơn 1 ngày có súp lơ xanh](#thuc-don-1-ngay-co-sup-lo-xanh)."}
   ],
   "related": [
     {"title": "Luộc rau thế nào để không mất chất", "url": "luoc-rau-the-nao-de-khong-mat-chat.html"},
@@ -29,11 +29,11 @@
   "anh_ai": true
 }
 ---
-"Súp lơ xanh có tác dụng gì?" là câu nhiều người gõ sau khi thấy loại rau này xuất hiện ở gần như mọi thực đơn eat clean, từ hộp cơm văn phòng đến đĩa salad ở quán. Câu trả lời ngắn: súp lơ xanh là loại rau có mật độ vi chất cao so với lượng calo, đặc biệt là vitamin C và vitamin K. Giá trị thật nằm ở ba việc rất đời thường: chọn cây tươi, nấu ngắn để giữ chất và ăn đều đặn cùng các loại rau khác. Cuối bài có một thực đơn eat clean một ngày dùng súp lơ xanh, kèm khẩu phần và năng lượng ước tính.
+Bài này đi qua từng con số trong 100 g súp lơ xanh, tách rõ điều đã có bằng chứng với điều mới là giả thuyết, rồi chỉ cách chọn, nấu và ghép bữa cho người bận. Cuối bài có sáu món nấu nhanh và một thực đơn mẫu một ngày, ghi rõ khẩu phần và năng lượng.
 
 ## Súp lơ xanh là gì và vì sao được nhắc nhiều đến vậy
 
-Súp lơ xanh, miền Nam hay gọi là bông cải xanh, thuộc họ cải, cùng họ với bắp cải, cải bẹ, cải ngọt, su hào và cải xoăn. Đây là cây ưa mát; tài liệu kỹ thuật trồng rau của [JICA tại Việt Nam](https://www.jica.go.jp/project/vietnamese/vietnam/004/materials/c8h0vm000000zhg2-att/ldc29_02_vn.pdf) ghi nhiệt độ thích hợp khoảng 15–18°C. Vì vậy ở Việt Nam, súp lơ xanh trồng nhiều ở hai nơi: Đà Lạt, nơi khí hậu mát cho phép trồng gần như quanh năm, và các vùng rau miền Bắc vào vụ đông. Ở chợ miền Bắc, súp lơ thường rẻ và ngon hơn vào mùa lạnh, khi có thêm nguồn rau tại chỗ.
+Súp lơ xanh, miền Nam hay gọi là bông cải xanh, thuộc họ cải, cùng họ với bắp cải, cải bẹ, cải ngọt, su hào và cải xoăn. Phần ta ăn là chùm nụ hoa chưa nở cùng phần thân non bên dưới.
 
 Lý do súp lơ được nhắc nhiều không phải vì nó là "siêu thực phẩm" theo kiểu quảng cáo, mà vì nó tiện: một cây cỡ vừa đủ cho hai đến ba bữa, sơ chế nhanh, ít hỏng hơn rau lá, nấu được cả kiểu Việt (xào tỏi, nấu canh, luộc chấm) lẫn kiểu Tây (nướng, trộn salad). Với người muốn ăn nhiều rau hơn mà ngại nhặt rau muống, rau ngót mỗi tối, súp lơ là lựa chọn ít tốn công nhất.
 
@@ -63,7 +63,7 @@ Nấu chín sẽ làm hao một phần vitamin C, vì vitamin này tan trong nư
 
 **Góp phần đủ vitamin C trong ngày.** Vitamin C tham gia tạo collagen, hỗ trợ hấp thu sắt từ thực phẩm thực vật và là một chất chống oxy hoá. Đây là vai trò sinh học đã được xác lập, và súp lơ là một nguồn vitamin C dồi dào. Ăn súp lơ cùng bữa với đậu phụ, rau dền hay các món có sắt từ thực vật là một cách ghép hợp lý.
 
-**Cung cấp vitamin K.** Vitamin K cần cho quá trình đông máu bình thường và có vai trò trong chuyển hoá xương. Rau lá xanh và rau họ cải là nguồn vitamin K1 chính trong bữa ăn người Việt.
+**Cung cấp vitamin K.** Vitamin K cần cho quá trình đông máu bình thường và có vai trò trong chuyển hoá xương. Theo tờ thông tin vitamin K của [NIH](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/), vitamin K1 có chủ yếu trong rau lá xanh, và súp lơ xanh được nêu tên trong nhóm nguồn vitamin K phổ biến nhất trong khẩu phần người Mỹ, cùng rau bina và dầu thực vật. Lưu ý là cơ thể hấp thu vitamin K từ rau kém hơn từ viên bổ sung, nên con số trong bảng dinh dưỡng không phải là lượng được dùng hết.
 
 **Thêm chất xơ mà ít năng lượng.** Chất xơ giúp bữa ăn no lâu hơn, hỗ trợ nhu động ruột và là "thức ăn" cho hệ vi khuẩn đường ruột. Tổ chức Y tế Thế giới khuyến nghị người trưởng thành ăn ít nhất 400 g rau quả mỗi ngày; súp lơ là cách dễ để gom đủ con số này vì nó chiếm chỗ trên đĩa mà không nặng bụng như tinh bột.
 
@@ -78,7 +78,9 @@ Súp lơ và các rau họ cải chứa glucosinolate, một nhóm hợp chất 
 
 Khó khăn chung là người ăn nhiều rau họ cải thường cũng ăn nhiều rau nói chung và sống lành mạnh hơn ở nhiều mặt, nên rất khó tách riêng tác động của súp lơ. Vì vậy, những câu như "súp lơ ngăn được bệnh này bệnh kia" là vượt quá những gì bằng chứng hiện có cho phép. Bạn có thể đọc thêm về nhóm chất này trong bài [chất chống oxy hoá trong thực phẩm](chat-chong-oxy-hoa-trong-thuc-pham.html).
 
-## Cách chọn súp lơ xanh ngon ở chợ Việt
+## Chọn, sơ chế và bảo quản súp lơ xanh
+
+### Chọn cây tươi ở chợ
 
 Súp lơ để lâu sẽ mất dần vitamin C và chuyển vàng, nên chọn cây tươi là bước đầu tiên để giữ giá trị dinh dưỡng.
 
@@ -90,7 +92,7 @@ Súp lơ để lâu sẽ mất dần vitamin C và chuyển vàng, nên chọn c
 
 Ở chợ truyền thống, nên mua vào buổi sáng khi rau mới về. Ở siêu thị, súp lơ thường bọc màng co; màng giữ ẩm tốt nhưng cũng che mất mặt cắt cuống, nên hãy lật xem phần gốc trước khi chọn. Cây to, đều chưa chắc ngon hơn cây nhỏ: điều đáng xem là bông còn khít, xanh và cuống còn tươi.
 
-## Sơ chế và bảo quản: đừng để súp lơ héo trong tủ lạnh
+### Rửa và bảo quản
 
 Súp lơ có nhiều kẽ nhỏ giữa các nhánh bông, là chỗ hay đọng bụi đất và đôi khi có sâu xanh nhỏ. Cách rửa hợp lý:
 
@@ -102,34 +104,37 @@ Nhiều người quen ngâm rau với nước muối loãng. Thói quen này kh�
 
 **Bảo quản:** súp lơ chưa rửa, bọc lỏng trong túi có vài lỗ thoáng, để ngăn rau tủ lạnh giữ được khoảng ba đến năm ngày. Đã rửa và cắt thì nên dùng trong hai ngày. Muốn để lâu hơn, có thể chần sôi khoảng hai phút, nhúng nước lạnh, để ráo rồi chia túi cấp đông; súp lơ cấp đông hợp để nấu canh, xào hoặc nấu cháo, nhưng sẽ không còn giòn như rau tươi.
 
-**Mẹo cho người bận:** cuối tuần mua một hoặc hai cây, tách bông, gọt thân, rửa sạch, để ráo và chia sẵn vào hai hộp lót giấy thấm. Tối về chỉ việc đổ ra chảo, bữa rau xong trong năm phút. Kiểu chuẩn bị trước này cũng là nền của [hộp cơm mang đi làm đủ chất](com-hop-mang-di-lam-du-chat-an-toan.html). Đừng bỏ thân: gọt lớp vỏ xơ ngoài, phần lõi bên trong giòn ngọt, thân chiếm một phần đáng kể khối lượng cây bạn đã trả tiền.
+**Đừng bỏ thân:** gọt lớp vỏ xơ ngoài, phần lõi bên trong giòn ngọt, nấu canh hay xào cùng bông đều được (món số 6 bên dưới dùng riêng phần thân). Cách sơ chế sẵn rau cho cả tuần và xếp hộp cơm có ở bài [hộp cơm mang đi làm đủ chất](com-hop-mang-di-lam-du-chat-an-toan.html).
 
 ## Nấu thế nào để súp lơ giữ được nhiều chất nhất
 
-Ba yếu tố quyết định lượng vitamin còn lại sau khi nấu là thời gian, lượng nước và nhiệt độ. Một nghiên cứu đăng trên [Journal of Zhejiang University Science B (Yuan và cộng sự, 2009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2722699/) đã nấu cùng một lượng súp lơ bằng năm cách, mỗi cách năm phút, rồi đo lại. Kết quả về vitamin C:
+Ba yếu tố quyết định lượng vitamin còn lại sau khi nấu là thời gian, lượng nước và nhiệt độ. Một nghiên cứu đăng trên [Journal of Zhejiang University Science B (Yuan và cộng sự, 2009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2722699/) đã nấu 200 g súp lơ bằng năm cách, mỗi cách năm phút, rồi đo lại. Mức hao vitamin C so với rau sống:
 
-- **Hấp:** không giảm vitamin C đáng kể so với rau sống; glucosinolate cũng được giữ tốt nhất. Các tác giả kết luận hấp là cách giữ chất tốt nhất trong năm cách.
-- **Lò vi sóng (thêm rất ít nước) và xào:** mất khoảng 16–24% vitamin C.
-- **Luộc:** mất khoảng 33%, vì vitamin C tan vào nước luộc.
-- **Xào rồi chế nước om tiếp:** mất nhiều nhất, khoảng 38%, và glucosinolate cũng hao nhiều.
+- **Hấp** (trên 200 ml nước sôi, có nắp): không giảm đáng kể; glucosinolate cũng gần như giữ nguyên. Các tác giả kết luận hấp là cách giữ chất tốt nhất trong năm cách.
+- **Lò vi sóng** (1000 W, thêm 10 ml nước): mất khoảng 16%.
+- **Xào** (10 ml dầu đậu nành, chảo 140°C): mất khoảng 24%.
+- **Luộc** (thả vào 400 ml nước sôi): mất khoảng 33%, vì vitamin C tan vào nước luộc.
+- **Xào 2 phút rồi thêm 50 ml nước, đậy nắp om 3 phút:** mất nhiều nhất, khoảng 38%.
 
-Đây là một nghiên cứu trong phòng thí nghiệm với điều kiện cố định, nên con số ở bếp nhà bạn sẽ khác, nhưng thứ tự chung khớp với nguyên tắc: nấu ngắn, ít nước. Từ đó có thể áp vào bếp Việt như sau.
+Có một điểm ít người để ý: trong cùng nghiên cứu, lò vi sóng giữ vitamin C khá tốt nhưng lại làm nhóm glucosinolate chính giảm khoảng 60%, mức hao lớn nhất trong năm cách (luộc giảm khoảng 41%, xào khoảng 55%). Vì vậy lò vi sóng chỉ là lựa chọn tạm khi vội, không phải cách tốt nhất.
+
+Cần đọc những con số này đúng mức: nghiên cứu chỉ dùng một giống súp lơ (giống Youxiu của Trung Quốc), một mẻ rau thái miếng đều, thời gian và lượng nước cố định. Súp lơ ở chợ, cỡ miếng và độ lửa ở bếp nhà bạn đều khác, nên con số thật sẽ khác. Điều đáng giữ là thứ tự chung: nấu ngắn, ít nước. Áp vào bếp Việt như sau.
 
 **Hấp ba đến năm phút** là bông còn xanh, giòn nhẹ. Đây là cách đơn giản nhất để giữ chất.
 
 **Xào nhanh lửa lớn:** cho ít dầu, phi thơm tỏi, cho súp lơ vào đảo đều, nếu cần chỉ thêm một hai thìa nước rồi đậy nắp khoảng hai phút. Tránh chế nhiều nước rồi om lâu, vì đó chính là cách mất chất nhiều nhất trong nghiên cứu trên. Dầu còn giúp cơ thể hấp thu tốt hơn các chất tan trong dầu như vitamin K và beta-caroten.
 
-**Luộc thì luộc ngắn.** Đợi nước sôi mạnh mới thả rau, luộc khoảng hai đến ba phút, và dùng nước luộc nấu canh để lấy lại phần vitamin đã tan ra. Bài [luộc rau thế nào để không mất chất](luoc-rau-the-nao-de-khong-mat-chat.html) có thêm mẹo cho các loại rau khác.
-
-**Lò vi sóng:** cho súp lơ vào bát, thêm một thìa nước, đậy nắp có lỗ thoát hơi, quay khoảng hai đến ba phút. Càng ít nước, càng ngắn giờ thì càng giữ được nhiều.
+**Luộc thì luộc ngắn** và dùng nước luộc nấu canh để lấy lại phần vitamin đã tan ra. Với súp lơ, nên thả thân thái lát trước khoảng một phút rồi mới thả bông, để bông không bị nhũn khi thân vừa chín. Mẹo luộc chung cho các loại rau có ở bài [luộc rau thế nào để không mất chất](luoc-rau-the-nao-de-khong-mat-chat.html).
 
 **Mẹo "cắt rồi chờ" — kết quả sơ bộ.** Enzym myrosinase dễ bị nhiệt phá huỷ. Một nghiên cứu trên [Journal of Agricultural and Food Chemistry (Wu và cộng sự, 2018)](https://pubs.acs.org/doi/10.1021/acs.jafc.7b05913) thái súp lơ thật nhỏ (khoảng 2 mm), để yên 90 phút rồi mới xào bốn phút; lượng sulforaphane cao gấp khoảng 2,8 lần so với xào ngay sau khi thái. Đây mới là một nghiên cứu, chỉ thử với cách xào và chỉ thử mốc 90 phút, chưa có dữ liệu cho thời gian chờ ngắn hơn. Nếu bạn đã sơ chế sẵn từ trước thì đó là mẹo không mất gì, nhưng không cần câu nệ.
 
 **Điều nên tránh:** chiên ngập dầu hoặc tẩm bột chiên giòn. Món vẫn ngon, nhưng lúc đó súp lơ chỉ còn là cái cớ để ăn bột và dầu.
 
-## Ai nên lưu ý khi ăn súp lơ xanh
+## Súp lơ xanh với từng nhóm người
 
-Súp lơ an toàn với đại đa số người, nhưng có vài trường hợp nên biết:
+Súp lơ an toàn với đại đa số người. Mục này chia làm hai phần: nhóm cần thận trọng (đọc trước nếu bạn đang có bệnh hoặc dùng thuốc) và nhóm có thêm lợi ích khi ăn đều.
+
+### Cần thận trọng
 
 - **Người đang dùng thuốc chống đông nhóm kháng vitamin K (như warfarin):** điều quan trọng là giữ lượng rau xanh giàu vitamin K ổn định giữa các ngày, không bỗng dưng ăn rất nhiều hay bỏ hẳn. NIH lưu ý điểm này rõ trong tờ thông tin về vitamin K. Hãy hỏi bác sĩ đang theo dõi cho bạn trước khi thay đổi chế độ ăn.
 - **Người bệnh thận mạn đang phải hạn chế kali:** 100 g súp lơ sống có khoảng 316 mg kali. [Quỹ Thận Quốc gia Hoa Kỳ (NKF)](https://www.kidney.org/kidney-topics/potassium-your-ckd-diet) xếp súp lơ nấu chín vào nhóm thực phẩm nhiều kali hơn và nhấn mạnh rằng ăn khẩu phần lớn thì món ít kali cũng thành nhiều kali. Mức kali cho phép khác nhau theo giai đoạn bệnh và xét nghiệm máu, nên hãy hỏi bác sĩ hoặc chuyên gia dinh dưỡng đang theo dõi cho bạn trước khi đưa súp lơ vào thường xuyên.
@@ -138,24 +143,13 @@ Súp lơ an toàn với đại đa số người, nhưng có vài trường hợ
 - **Người có bệnh tuyến giáp:** theo [Viện Linus Pauling](https://lpi.oregonstate.edu/mic/food-beverages/cruciferous-vegetables), một số chất từ glucosinolate có thể cản trở việc tuyến giáp dùng i-ốt, nhưng ghi nhận ở người chủ yếu là khi ăn lượng rất lớn rau họ cải sống, nhất là khi khẩu phần thiếu i-ốt. Ăn lượng thường, nấu chín và đủ i-ốt từ muối i-ốt hay [thực phẩm giàu i-ốt](thuc-pham-giau-i-ot.html) thì không đáng lo với người khoẻ. Người đang có bệnh tuyến giáp nên hỏi bác sĩ.
 - **Trẻ nhỏ mới ăn dặm:** nên hấp chín mềm và nghiền hoặc cắt nhỏ để tránh hóc.
 
-## Súp lơ xanh cho người giữ cân, mẹ bầu và người cần để ý đường huyết
+### Lợi ích thêm
 
 **Người đang giữ cân hoặc muốn kiểm soát cân nặng.** Với khoảng 34 kcal và 2,6 g chất xơ mỗi 100 g, một đĩa 200 g súp lơ chỉ khoảng 70 kcal nhưng chiếm nhiều chỗ trên đĩa và cần nhai lâu. Đổi một phần cơm hoặc món chiên trong bữa sang súp lơ hấp hay xào ít dầu là cách giảm năng lượng bữa ăn mà không phải nhịn. Lưu ý là năng lượng của món súp lơ chủ yếu đến từ dầu: mỗi thìa canh dầu đã khoảng 120 kcal.
 
 **Mẹ bầu.** Theo [NIH](https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/), nhu cầu folate khi mang thai là 600 microgam DFE mỗi ngày, cao hơn mức 400 của người trưởng thành bình thường. 100 g súp lơ cho khoảng 63 microgam, tức chừng một phần mười nhu cầu khi mang thai: một nguồn đóng góp tốt nhưng không đủ thay viên bổ sung axit folic mà bác sĩ sản khoa thường chỉ định. Súp lơ cũng cho thêm vitamin C và chất xơ, hữu ích khi nhiều mẹ bầu bị táo bón. Nhớ rửa kỹ và nấu chín. Xem thêm [dinh dưỡng cho phụ nữ mang thai](dinh-duong-cho-phu-nu-mang-thai.html).
 
 **Người cần để ý đường huyết.** 100 g súp lơ chỉ có khoảng 6,6 g carbohydrate, trong đó gần 40% là chất xơ, nên súp lơ là loại rau ít ảnh hưởng tới đường huyết sau ăn và có thể ăn khá thoải mái. Điều quyết định đường huyết của bữa vẫn là lượng cơm, bún, bánh đi kèm. Bài [chỉ số đường huyết của thực phẩm](chi-so-duong-huyet-thuc-pham.html) giải thích cách ghép bữa cho ổn định hơn.
-
-## Súp lơ xanh trong bữa ăn: ghép với gì cho đủ chất
-
-Súp lơ giàu vi chất nhưng ít đạm và gần như không có chất béo, nên một bữa chỉ có súp lơ sẽ nhanh đói. Cách ghép đơn giản theo kiểu đĩa cân bằng:
-
-- **Nửa đĩa rau:** súp lơ cùng một loại rau khác màu như cà rốt, cà chua, rau dền để đa dạng vi chất.
-- **Một phần tư đĩa đạm:** trứng, đậu phụ, tôm, cá, thịt nạc hoặc các loại đậu.
-- **Một phần tư đĩa tinh bột:** cơm, ưu tiên trộn thêm gạo lứt, hoặc khoai, bún, miến.
-- **Một chút chất béo tốt:** dầu ăn khi xào, vừng rang, lạc.
-
-Súp lơ hợp với tỏi, gừng, dầu hào, nước mắm, vừng và chanh. Nếu trong nhà có người chê súp lơ "nhạt" hoặc "hăng", thường là do luộc quá lâu; nấu ngắn hơn và nêm với tỏi phi sẽ khác hẳn.
 
 ## Sáu món súp lơ nấu nhanh cho người đi làm về muộn
 
@@ -171,13 +165,17 @@ Các món dưới đây tính cho hai người, mỗi món không quá 15 phút 
 
 **Súp lơ và đậu phụ sốt cà chua.** 150 g súp lơ chần sơ, 2 bìa đậu phụ (khoảng 300 g), 2 quả cà chua cỡ vừa, 1 thìa canh dầu, hành lá. Đậu phụ áp chảo vàng, phi hành với cà chua thành sốt, cho súp lơ vào đảo cùng. Hợp cho người ăn chay hoặc muốn bớt thịt. Ước tính mỗi phần khoảng 220 kcal, 15 g đạm.
 
-**Thân súp lơ muối chua nhanh.** Thân của 1 cây súp lơ (khoảng 150 g), 1 thìa cà phê muối, 1 thìa canh đường, 3 thìa canh giấm, vài lát ớt, tỏi. Gọt vỏ thân, thái que, trộn đều, để ngăn mát sau vài giờ là ăn được, giữ được hai ba ngày. Cách này tận dụng phần thân mà nhiều người vẫn bỏ.
+**Thân súp lơ muối chua nhanh.** Thân của 1 cây súp lơ (khoảng 150 g), 1 thìa cà phê muối, 1 thìa canh đường, 3 thìa canh giấm, vài lát ớt, tỏi. Gọt vỏ thân, thái que, trộn đều, để ngăn mát sau vài giờ là ăn được, giữ được hai ba ngày. Đây là món ăn kèm, chia ra nhiều bữa: cả mẻ khoảng 100 kcal (một nửa đến từ thìa đường), mỗi lần gắp vài que chỉ vài chục kcal, nên thực đơn bên dưới không tính món này.
 
-## Thực đơn eat clean 1 ngày có súp lơ xanh
+Súp lơ hợp với tỏi, gừng, dầu hào, nước mắm, vừng và chanh. Ai chê súp lơ "nhạt" hoặc "hăng" thường là đã ăn súp lơ luộc quá lâu; nấu ngắn hơn và nêm với tỏi phi sẽ khác hẳn.
 
-Dưới đây là một thực đơn eat clean mẫu cho một người, ghép từ các món trên. Tổng cả ngày khoảng 1.300–1.400 kcal và 70–80 g đạm (ước tính); người vận động nhiều cần tăng phần cơm và đạm, người nhỏ người có thể bớt cơm.
+## Thực đơn 1 ngày có súp lơ xanh
 
-**Bữa sáng (khoảng 250 kcal, 18 g đạm):** 100 g súp lơ hấp, 2 quả trứng luộc, 1 lát bánh mì nguyên cám. Những sáng không kịp luộc trứng, bữa sáng dễ thiếu đạm; khi đó có thể thay bằng một ly sữa đậu nành hoặc một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh. Trang này giới thiệu dòng bột đạm thực vật True Vegan của IKI, có ghi thành phần và cách pha nếu bạn muốn tham khảo; trứng, đậu phụ hay sữa đậu nành vẫn là những lựa chọn đủ tốt.
+Súp lơ giàu vi chất nhưng ít đạm và gần như không có chất béo, nên bữa nào có súp lơ cũng cần thêm một nguồn đạm và một phần tinh bột để no lâu. Thực đơn dưới đây ghép từ các món ở trên theo tinh thần eat clean kiểu Việt: vẫn ăn cơm, đủ ba bữa, ưu tiên thực phẩm tươi, nấu hấp, luộc hoặc xào ít dầu, bớt đồ chế biến sẵn, đồ chiên ngập dầu và nước ngọt. Không phải nhịn món nào, chỉ đổi cách chọn và cách nấu.
+
+**Thực đơn này dành cho ai:** mức khoảng 1.300–1.400 kcal và khoảng 80 g đạm (ước tính) hợp với một phụ nữ làm văn phòng, cân nặng trung bình, ít vận động. Đây là mức tham khảo, không phải mức ăn kiêng: nhu cầu thật tuỳ chiều cao, cân nặng, tuổi và mức vận động, và không nên tự cắt thấp hơn mức này.
+
+**Bữa sáng (khoảng 300 kcal, 22 g đạm):** một bát cháo thịt băm nấu súp lơ băm nhỏ (40 g gạo, 50 g thịt nạc băm, 80 g súp lơ), thêm 1 quả trứng luộc. Sáng nào không kịp nấu cháo hay luộc trứng, một ly sữa đậu nành hoặc một gói [đạm thực vật](https://trueveganprotein.com) pha nhanh (như True Vegan Protein Pro, thành phần ghi ở khối sản phẩm bên dưới) cũng bù được phần đạm.
 
 **Bữa trưa — hộp cơm mang đi làm (khoảng 420 kcal, 25 g đạm):** một bát cơm trộn gạo lứt (khoảng 150 g cơm chín), một phần súp lơ xào thịt bò, một ít cà rốt luộc.
 
@@ -185,21 +183,35 @@ Dưới đây là một thực đơn eat clean mẫu cho một người, ghép t
 
 **Bữa tối (khoảng 430 kcal, 28 g đạm):** nửa bát cơm, một phần canh súp lơ thịt băm, một phần đậu phụ sốt cà chua.
 
-Cả ngày như vậy cho khoảng 250–300 g rau, cộng hoa quả là chạm mốc 400 g rau quả WHO khuyến nghị. Mỗi người một mục tiêu và một thể trạng: có người cần thêm đạm vì tập luyện, có người ăn rau họ cải nhiều là chướng bụng. Nếu bạn muốn xếp bữa sát với mục tiêu của mình hơn, có thể [làm bài kiểm tra thể trạng](https://ikihealing.com/quiz) để nhận gợi ý cách chia bữa phù hợp.
+Cả ngày như vậy cho khoảng 250–300 g rau, cộng hoa quả là chạm mốc 400 g rau quả WHO khuyến nghị.
+
+**Nâng lên khoảng 1.750–1.850 kcal** cho nam giới ít vận động hoặc người tập luyện đều (ước tính theo FoodData Central, làm tròn):
+
+- Thêm nửa bát cơm (khoảng 75 g cơm chín, chừng 100 kcal) ở bữa trưa và nửa bát ở bữa tối: cộng khoảng 200 kcal.
+- Thêm 100 g ức gà luộc hoặc áp chảo vào hộp cơm trưa: cộng khoảng 165 kcal và 31 g đạm.
+- Thêm một ly sữa đậu nành không đường (khoảng 250 ml) ở bữa phụ: cộng khoảng 80–100 kcal và 7 g đạm.
+
+Tổng cộng thêm khoảng 450 kcal và gần 40 g đạm, đưa cả ngày lên quanh 1.800 kcal và khoảng 120 g đạm. Ai tập nặng hoặc có mục tiêu riêng thì nên nhờ chuyên gia dinh dưỡng tính lại.
+
+Mỗi người một thể trạng và một nhịp sống: có người cần thêm đạm vì tập luyện, có người ăn rau họ cải nhiều là chướng bụng. Nếu muốn biết mình nên chỉnh thói quen ăn uống theo hướng nào, bạn có thể [làm bài kiểm tra sức khoẻ 90 giây](https://ikihealing.com/quiz): 12 câu hỏi, kết quả là bản phân tích 6 chỉ số sức khoẻ của riêng bạn kèm gợi ý thói quen nên bắt đầu trước.
 
 ## Những hiểu lầm thường gặp về súp lơ xanh
 
 **"Ăn càng nhiều càng tốt."** Không có loại rau nào cần ăn đến mức thay hết các rau khác. Mỗi loại rau mạnh một nhóm vi chất riêng; ăn đa dạng màu sắc quan trọng hơn ăn thật nhiều một loại.
 
-**"Súp lơ sống mới bổ, nấu chín là mất hết."** Nấu chín có làm hao một phần vitamin C, nhưng không phải mất hết: hấp gần như giữ nguyên, luộc năm phút mất khoảng một phần ba. Nấu chín còn giúp dễ tiêu hơn với nhiều người.
+**"Súp lơ sống mới bổ, nấu chín là mất hết."** Nấu chín chỉ làm hao một phần, và mức hao khác nhau rất nhiều tuỳ cách nấu (xem [mục nấu nướng](#nau-the-nao-de-sup-lo-giu-duoc-nhieu-chat-nhat)). Nấu chín còn giúp dễ tiêu hơn với nhiều người.
 
-**"Súp lơ nhập khẩu bổ hơn súp lơ trong nước."** Giá trị dinh dưỡng phụ thuộc nhiều vào độ tươi hơn là xuất xứ. Cây vừa thu hoạch, mua trong ngày, thường tươi hơn cây phải vận chuyển nhiều ngày.
+**"Súp lơ nhập khẩu bổ hơn súp lơ trong nước."** Chưa có số liệu nào so sánh trực tiếp hai loại ở thị trường Việt Nam. Theo kinh nghiệm chung, rau càng để lâu càng héo và kém tươi, nên một cây vừa thu hoạch, mua trong ngày thường đáng chọn hơn một cây phải vận chuyển và trữ lạnh nhiều ngày, bất kể xuất xứ.
 
-**"Bông súp lơ vàng là hỏng, phải bỏ."** Vàng nhẹ là rau đã già, vị kém và vitamin C giảm, nhưng chưa phải là hỏng. Nếu không có mùi lạ, không nhớt, không mốc thì vẫn nấu canh được. Có mùi hôi hoặc đốm đen mốc thì nên bỏ.
+**"Bông súp lơ vàng là hỏng, phải bỏ."** Vàng là dấu hiệu bông đã già, bắt đầu nở hoa, vị hăng và xơ hơn. Đây là kinh nghiệm bếp chung chứ không phải khuyến nghị chính thức: vàng nhẹ mà không có mùi lạ, không nhớt, không mốc thì nhiều nhà vẫn nấu canh. Có mùi hôi, nhớt hoặc đốm mốc thì bỏ.
 
-## Kết: một loại rau tốt để ăn đều, không phải để kỳ vọng phép màu
+## Kết: ăn đều, nấu ngắn, đừng kỳ vọng phép màu
 
-Súp lơ xanh là loại rau ít năng lượng, giàu vitamin C, vitamin K, folate và chất xơ, dễ nấu và dễ đưa vào bữa cơm Việt. Những lời đồn về phòng bệnh hiện chưa có bằng chứng đủ mạnh trên người. Muốn tận dụng hết giá trị của nó, hãy chọn cây tươi, ăn cả thân, nấu ngắn bằng hấp hoặc xào nhanh, và ghép cùng một nguồn đạm cho bữa no lâu.
+Súp lơ xanh là rau tốt để ăn hằng tuần, nhưng những lời đồn về phòng bệnh hiện chưa có bằng chứng đủ mạnh trên người. Ba việc nên làm ngay từ bữa tới:
+
+- Chọn cây bông khít, cuống tươi, và ăn cả phần thân.
+- Hấp ba đến năm phút hoặc xào nhanh lửa lớn, tránh om lâu trong nhiều nước.
+- Ghép súp lơ với một nguồn đạm và vài loại rau khác màu trong cùng bữa.
 
 ## Nguồn tham khảo
 
