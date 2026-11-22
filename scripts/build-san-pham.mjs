@@ -103,6 +103,11 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, null
     @media(max-width:820px){.sp-top{grid-template-columns:1fr;gap:24px}}
     .sp-anh{background:#F7FAF6;border:1px solid #e6ece3;border-radius:20px;padding:18px;text-align:center}
     .sp-anh img{max-width:100%;height:auto;border-radius:12px}
+    .sp-thu-vien{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;margin-top:10px}
+    .sp-thu-vien button{padding:0;border:2px solid transparent;border-radius:8px;overflow:hidden;background:#F7FAF6;cursor:pointer}
+    .sp-thu-vien button.on{border-color:#094938}
+    .sp-thu-vien img{width:100%;height:auto;display:block}
+    @media(max-width:520px){.sp-thu-vien{grid-template-columns:repeat(5,1fr);gap:6px}}
     .sp-eyebrow{color:#094938;font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.78rem}
     .sp-ban-moi{margin:16px 0 0;padding:13px 15px;border:1.5px solid #8fb93f;border-radius:14px;background:#f7fbf1}
     .sp-ban-moi strong{display:block;font-size:.97rem;color:#2f6b1f;margin:0 0 5px}
@@ -194,6 +199,7 @@ function trang(sp) {
   const dinhDuong = bangCot(sp.dinhDuong100g);
   const anhNhan = (sp.anhNhan || []).map(([f, cap]) => `<figure><img src="../assets/san-pham/${f}" alt="${escAttr(cap)}" loading="lazy" /><figcaption>${esc(cap)}</figcaption></figure>`).join("");
   const khoi = (dk, h) => (dk ? h : "");
+  const thuVien = (sp.thuVienAnh || []).map(([f, cap], i) => `<button type="button"${i ? "" : ' class="on"'} data-anh="../assets/san-pham/${f}" data-alt="${escAttr(cap)}" aria-label="${escAttr(cap)}"><img src="../assets/san-pham/${f}" alt="" width="120" height="120" loading="lazy" /></button>`).join("");
   const bang = (sp.thongTinNhanh || []).map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join("");
   const dung = (sp.cachDung || []).map((b) => `<li>${esc(b)}</li>`).join("");
   const faq = (sp.faq || [])
@@ -211,7 +217,11 @@ ${header()}
     <div class="sp-wrap">
       <nav class="sp-crumb" aria-label="Đường dẫn"><a href="../index.html">Trang chủ</a> &rsaquo; <a href="../san-pham.html">Sản phẩm</a> &rsaquo; ${esc(sp.ten)}</nav>
       <div class="sp-top">
-        <div class="sp-anh"><img src="../assets/san-pham/${sp.anh}" alt="${escAttr(sp.anhAlt)}" width="1000" height="1000" loading="eager" /></div>
+        <div>
+          <div class="sp-anh"><img id="spAnhChinh" src="../assets/san-pham/${sp.anh}" alt="${escAttr(sp.anhAlt)}" width="1000" height="1000" loading="eager" /></div>
+          ${thuVien ? `<div class="sp-thu-vien" id="spThuVien">${thuVien}</div>
+          <script>document.getElementById("spThuVien").addEventListener("click",function(e){var b=e.target.closest("button[data-anh]");if(!b)return;var m=document.getElementById("spAnhChinh");m.src=b.dataset.anh;m.alt=b.dataset.alt;this.querySelectorAll("button").forEach(function(x){x.classList.toggle("on",x===b);});});</script>` : ""}
+        </div>
         <div>
           <span class="sp-eyebrow">${esc(sp.loai)}</span>
           <h1>${esc(sp.h1)}</h1>

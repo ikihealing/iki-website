@@ -18,10 +18,12 @@
    "seoTitle": "True Vegan Protein Pro hộp 22 gói: thành phần, cách dùng",
    "moTa": "True Vegan Protein Pro là thực phẩm bổ sung dạng bột đạm dinh dưỡng thực vật, hộp 22 gói x 22 g (484 g). Đang bán, đặt hàng tại cửa hàng IKIHEALING.",
    "loai": "Thực phẩm bổ sung — bột đạm dinh dưỡng thực vật",
-   "anh": "true-vegan-protein-pro-hop-22-goi/hop-mat-truoc-va-goi.webp",
+   "anh": "bo-anh/true-vegan-protein/01-anh-chinh.webp",
    "anhAlt": "Hộp True Vegan Protein Pro 22 gói x 22 g cạnh một gói, bột đạm dinh dưỡng thực vật của IKIHEALING",
    "gia": 699000,
-   "giaNhan": "Gọi để được tư vấn", "thayGia": "Chiết khấu 15%", "goiTuVan": "0987931551",
+   "giaNhan": "Gọi để được tư vấn",
+   "thayGia": "Chiết khấu 15%",
+   "goiTuVan": "0987931551",
    "quyCach": "Hộp 22 gói x 22 g (484 g)",
    "danhCho": "Người từ 18 tuổi trở lên",
    "thongTinNhanh": [
@@ -235,7 +237,49 @@
    "banMoi": {
     "tieuDe": "Hũ 500 g (bản cũ) đã ngừng bán",
     "chu": "Hộp 22 gói x 22 g là bản nâng cấp thay cho hũ 500 g. Hũ 500 g không còn nhận đặt hàng; thông tin trên trang này là của hộp 22 gói."
-   }
+   },
+   "thuVienAnh": [
+    [
+     "bo-anh/true-vegan-protein/01-anh-chinh.webp",
+     "True Vegan Protein Pro — Ảnh chính"
+    ],
+    [
+     "bo-anh/true-vegan-protein/02-hop-va-goi.webp",
+     "True Vegan Protein Pro — Hộp và gói"
+    ],
+    [
+     "bo-anh/true-vegan-protein/03-thanh-phan-dinh-duong.webp",
+     "True Vegan Protein Pro — Thành phần và dinh dưỡng"
+    ],
+    [
+     "bo-anh/true-vegan-protein/04-cach-dung.webp",
+     "True Vegan Protein Pro — Cách dùng"
+    ],
+    [
+     "bo-anh/true-vegan-protein/05-cong-dung-tren-nhan.webp",
+     "True Vegan Protein Pro — Công dụng in trên nhãn"
+    ],
+    [
+     "bo-anh/true-vegan-protein/06-tien-loi-moi-ngay.webp",
+     "True Vegan Protein Pro — Tiện lợi mỗi ngày"
+    ],
+    [
+     "bo-anh/true-vegan-protein/07-goi-y-3-thoi-diem.webp",
+     "True Vegan Protein Pro — Gợi ý 3 thời điểm trong ngày"
+    ],
+    [
+     "bo-anh/true-vegan-protein/08-bang-dinh-duong.webp",
+     "True Vegan Protein Pro — Bảng dinh dưỡng"
+    ],
+    [
+     "bo-anh/true-vegan-protein/09-thong-tin-san-pham.webp",
+     "True Vegan Protein Pro — Thông tin sản phẩm"
+    ],
+    [
+     "bo-anh/true-vegan-protein/10-combo-2-6-hop.webp",
+     "True Vegan Protein Pro — Combo 2 đến 6 hộp"
+    ]
+   ]
   },
   {
    "slug": "tra-tue-minh",
@@ -246,7 +290,7 @@
    "seoTitle": "Trà Tuệ Minh: thành phần, cách pha và giá hộp 30 gói",
    "moTa": "Trà Tuệ Minh là trà thảo mộc túi lọc của IKIHEALING, hộp 30 gói x 2,6 g, giá niêm yết 168.000đ. Xem thông tin sản xuất, cách pha, thời điểm uống và câu hỏi thường gặp.",
    "loai": "Trà thảo mộc túi lọc",
-   "anh": "tra-tue-minh.jpg",
+   "anh": "bo-anh/tra-tue-minh/01-anh-chinh.webp",
    "anhAlt": "Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKIHEALING",
    "gia": 168000,
    "quyCach": "Hộp 30 gói x 2,6 g",
@@ -320,6 +364,52 @@
      "cach-pha-tra-tui-loc-dung-cach",
      "Cách pha trà túi lọc đúng cách: nhiệt độ, thời gian hãm và 5 lỗi hay gặp"
     ]
+   ],
+   "thuVienAnh": [
+    [
+     "bo-anh/tra-tue-minh/01-anh-chinh.webp",
+     "Trà Tuệ Minh — Ảnh chính"
+    ],
+    [
+     "bo-anh/tra-tue-minh/02-hop-va-tui-loc.webp",
+     "Trà Tuệ Minh — Hộp và túi lọc"
+    ],
+    [
+     "bo-anh/tra-tue-minh/03-thanh-phan.webp",
+     "Trà Tuệ Minh — Thành phần"
+    ],
+    [
+     "bo-anh/tra-tue-minh/04-cach-pha.webp",
+     "Trà Tuệ Minh — Cách pha"
+    ],
+    [
+     "bo-anh/tra-tue-minh/05-cong-dung-nguyen-lieu.webp",
+     "Trà Tuệ Minh — Công dụng nguyên liệu theo y học cổ truyền"
+    ],
+    [
+     "bo-anh/tra-tue-minh/06-tien-loi-moi-ngay.webp",
+     "Trà Tuệ Minh — Tiện lợi mỗi ngày"
+    ],
+    [
+     "bo-anh/tra-tue-minh/07-goi-y-thoi-diem.webp",
+     "Trà Tuệ Minh — Gợi ý thời điểm dùng"
+    ],
+    [
+     "bo-anh/tra-tue-minh/08-5-vi-thao-moc.webp",
+     "Trà Tuệ Minh — 5 vị thảo mộc"
+    ],
+    [
+     "bo-anh/tra-tue-minh/09-thong-tin-san-pham.webp",
+     "Trà Tuệ Minh — Thông tin sản phẩm"
+    ],
+    [
+     "bo-anh/tra-tue-minh/10-combo-tra-tue-minh.webp",
+     "Trà Tuệ Minh — Combo 2 đến 6 hộp"
+    ],
+    [
+     "bo-anh/tra-tue-minh/11-combo-tue-minh-6-hop.webp",
+     "Trà Tuệ Minh — Combo 6 hộp"
+    ]
    ]
   },
   {
@@ -331,7 +421,7 @@
    "seoTitle": "Trà Thanh Hương: bốn vị thảo mộc, cách pha và giá",
    "moTa": "Trà Thanh Hương là trà thảo mộc túi lọc của IKIHEALING, phối hoa nhài, phục linh, hoa quế và trần bì, giá niêm yết 226.000đ. Xem thành phần, cách pha và thời điểm uống.",
    "loai": "Trà thảo mộc túi lọc",
-   "anh": "tra-thanh-huong.jpg",
+   "anh": "bo-anh/tra-thanh-huong/01-anh-chinh.webp",
    "anhAlt": "Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKIHEALING cùng tách trà và túi lọc",
    "gia": 226000,
    "quyCach": "Túi lọc 2,6 g mỗi gói",
@@ -409,6 +499,52 @@
     [
      "kho-ngu-tran-troc-nep-buoi-toi",
      "Khó ngủ trằn trọc: nếp buổi tối giúp dễ vào giấc"
+    ]
+   ],
+   "thuVienAnh": [
+    [
+     "bo-anh/tra-thanh-huong/01-anh-chinh.webp",
+     "Trà Thanh Hương — Ảnh chính"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/02-hop-va-tui-loc.webp",
+     "Trà Thanh Hương — Hộp và túi lọc"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/03-thanh-phan.webp",
+     "Trà Thanh Hương — Thành phần"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/04-cach-pha.webp",
+     "Trà Thanh Hương — Cách pha"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/05-cong-dung-nguyen-lieu.webp",
+     "Trà Thanh Hương — Công dụng nguyên liệu theo y học cổ truyền"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/06-tien-loi-moi-ngay.webp",
+     "Trà Thanh Hương — Tiện lợi mỗi ngày"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/07-goi-y-thoi-diem.webp",
+     "Trà Thanh Hương — Gợi ý thời điểm dùng"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/08-theo-bang-dinh-duong.webp",
+     "Trà Thanh Hương — Theo bảng dinh dưỡng"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/09-thong-tin-san-pham.webp",
+     "Trà Thanh Hương — Thông tin sản phẩm"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/10-combo-tra-thanh-huong.webp",
+     "Trà Thanh Hương — Combo 2 đến 6 hộp"
+    ],
+    [
+     "bo-anh/tra-thanh-huong/11-combo-thanh-huong-6-hop.webp",
+     "Trà Thanh Hương — Combo 6 hộp"
     ]
    ]
   },

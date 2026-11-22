@@ -693,6 +693,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .gallery{position:sticky;top:96px}
   .gmain{aspect-ratio:1/1;border-radius:var(--r-lg);overflow:hidden;border:1px solid var(--line);position:relative;background:var(--surface)}
   .gmain img.photo{width:100%;height:100%;object-fit:cover;display:block}
+  .gthumbs{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;margin-top:10px}
+  .gthumbs[hidden]{display:none}
+  .gthumbs button{padding:0;border:2px solid transparent;border-radius:8px;overflow:hidden;background:var(--surface);cursor:pointer;aspect-ratio:1/1}
+  .gthumbs button.on{border-color:var(--brand)}
+  .gthumbs img{width:100%;height:100%;object-fit:cover;display:block}
+  @media(max-width:640px){.gthumbs{grid-template-columns:repeat(5,1fr);gap:6px}}
   .pdp h1{font-size:clamp(30px,4vw,44px);font-weight:500;margin:14px 0 0}
   .pdp .subt{color:var(--ink-soft);font-size:16.5px;margin:16px 0 20px;letter-spacing:0;max-width:48ch}
   .pdp .pricebig{font-size:26px;font-weight:600;font-variant-numeric:tabular-nums}
@@ -1052,7 +1058,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="view" id="detail">
   <div class="wrap"><p class="crumb" style="padding-top:26px">Trang chủ &nbsp;&middot;&nbsp; Sản phẩm &nbsp;&middot;&nbsp; <b id="pdpCrumb"></b></p></div>
   <div class="wrap pdp">
-    <div class="gallery"><div class="gmain"><img class="photo" id="pdpPhoto" alt=""></div></div>
+    <div class="gallery"><div class="gmain"><img class="photo" id="pdpPhoto" alt=""></div><div class="gthumbs" id="pdpThumbs" hidden></div></div>
     <div>
       <span class="kicker" id="pdpKicker"></span>
       <h1 id="pdpTitle"></h1>
@@ -1157,6 +1163,22 @@ document.getElementById('catList').innerHTML = cats.map(c=>`
   </a>`).join('');
 
 PRODUCTS.forEach((p,i)=>p._i=i);
+// Bộ ảnh thông tin 3 sản phẩm chủ lực (22/11/2026, dùng lại bộ ảnh sàn CEO đã duyệt).
+// Danh sách sống từ hope-ops-hub chỉ có 1 ảnh, nên ảnh chính + thư viện gắn theo tên ở đây.
+const BO_ANH_GOC='/assets/san-pham/bo-anh/';
+const BO_ANH=[
+  [/true vegan/i,/500\s*g/i,'true-vegan-protein',['01-anh-chinh','02-hop-va-goi','03-thanh-phan-dinh-duong','04-cach-dung','05-cong-dung-tren-nhan','06-tien-loi-moi-ngay','07-goi-y-3-thoi-diem','08-bang-dinh-duong','09-thong-tin-san-pham','10-combo-2-6-hop']],
+  [/thanh h(ư|u)(ơ|o)ng/i,null,'tra-thanh-huong',['01-anh-chinh','02-hop-va-tui-loc','03-thanh-phan','04-cach-pha','05-cong-dung-nguyen-lieu','06-tien-loi-moi-ngay','07-goi-y-thoi-diem','08-theo-bang-dinh-duong','09-thong-tin-san-pham','10-combo-tra-thanh-huong','11-combo-thanh-huong-6-hop']],
+  [/tu(ệ|e) minh/i,null,'tra-tue-minh',['01-anh-chinh','02-hop-va-tui-loc','03-thanh-phan','04-cach-pha','05-cong-dung-nguyen-lieu','06-tien-loi-moi-ngay','07-goi-y-thoi-diem','08-5-vi-thao-moc','09-thong-tin-san-pham','10-combo-tra-tue-minh','11-combo-tue-minh-6-hop']]
+];
+function ganBoAnh(p){
+  if(!p||!p.n||/combo/i.test(p.n)) return;
+  const b=BO_ANH.find(x=>x[0].test(p.n)&&!(x[1]&&x[1].test(p.n)));
+  if(!b) return;
+  p.imgs=b[3].map(f=>BO_ANH_GOC+b[2]+'/'+f+'.webp');
+  p.img=p.imgs[0];
+}
+PRODUCTS.forEach(ganBoAnh);
 
 // Trạng thái bán (16/10/2026): trangThai "ngung-ban" khoá nút đặt như hết hàng; "sap-ra-mat" chỉ nhận đặt trước (máy chủ không thu tiền).
 function laNgungBan(p){return !!(p&&p.trangThai==='ngung-ban');}
@@ -1254,6 +1276,13 @@ function openDetail(p){
   document.getElementById('pdpPrice').textContent=giaHien(p,'Chiết khấu 15%');
   var nhanHet=document.getElementById('pdpHetHang'); if(nhanHet){ nhanHet.hidden=!(laHetHang(p)||laDatTruoc(p)); nhanHet.textContent=laHetHang(p)?nhanKhongBan(p):laDatTruoc(p)?nhanDatTruoc(p)+'. Hiện nhận đặt trước, chưa thu tiền.':''; nhanHet.classList.toggle('dat-truoc',!laHetHang(p)&&laDatTruoc(p)); }
   document.getElementById('pdpPhoto').src=p.img;
+  document.getElementById('pdpPhoto').alt=p.n;
+  const thumbs=document.getElementById('pdpThumbs');
+  if(p.imgs&&p.imgs.length>1){
+    thumbs.innerHTML=p.imgs.map((u,i)=>`<button type="button" class="${i?'':'on'}" data-anh="${u}" aria-label="Ảnh ${i+1} của ${p.n}"><img src="${u}" alt="" loading="lazy"></button>`).join('');
+    thumbs.hidden=false;
+    thumbs.onclick=e=>{const b=e.target.closest('button[data-anh]'); if(!b) return; document.getElementById('pdpPhoto').src=b.dataset.anh; thumbs.querySelectorAll('button').forEach(x=>x.classList.toggle('on',x===b));};
+  } else { thumbs.innerHTML=''; thumbs.hidden=true; }
   currentProduct=p;
   renderConsult();
   // biến thể + quà chỉ cho Đạm
@@ -1511,7 +1540,7 @@ document.getElementById('themeBtn').onclick=()=>{const cur=root.getAttribute('da
       if(!ds||ds.length<3) return;
       var dangXem=currentProduct&&document.getElementById('detail').classList.contains('on')?currentProduct._slug:null;
       PRODUCTS.length=0;
-      ds.forEach(function(p,i){p._i=i;p._slug=slugHoa(p.n);PRODUCTS.push(p);});
+      ds.forEach(function(p,i){p._i=i;p._slug=slugHoa(p.n);ganBoAnh(p);PRODUCTS.push(p);});
       flagship=PRODUCTS.find(function(p){return /true vegan/i.test(p.n)&&p.trangThai!=='ngung-ban';})||PRODUCTS.find(function(p){return /true vegan/i.test(p.n);})||PRODUCTS[0];
       document.getElementById('heroPhoto').src=flagship.img;
       document.getElementById('featList').innerHTML=PRODUCTS.slice(0,4).map(card).join('');
