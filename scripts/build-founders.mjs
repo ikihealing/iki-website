@@ -224,11 +224,15 @@ ${ctaBlock(lang)}
 
     // Trang chuyên mục
     const alt = Object.fromEntries(LANGS.map((l) => [l, BASE[l]]));
-    const byAuthor = (k) => posts.filter((p) => p.author === k);
+    // Bài có "ghim": true (CEO 22/11/2026: bài Claude Startups) đứng riêng ở đầu trang chuyên mục, không lặp trong cột tác giả.
+    const byAuthor = (k) => posts.filter((p) => p.author === k && !p.ghim);
+    const NHAN_GHIM = { vi: "BÀI GHIM", en: "PINNED", ja: "ピン留め" };
+    const ghim = posts.filter((p) => p.ghim);
+    const pinBlock = ghim.length ? `<p class="sec">${NHAN_GHIM[lang]}</p><div class="list" style="margin-bottom:32px">${ghim.map((p) => `<a class="card ghim" style="border:2px solid #DAA74B" href="${BASE[lang]}${p.slug}.html"><h3>${esc(p[lang].title)}</h3><p>${esc(p[lang].desc)}</p><small>${p.date.split("-").reverse().join("/")} · ${minutes(lang, p[lang].body)} ${esc(t.min)}</small></a>`).join("")}</div>\n` : "";
     const col = (k) => { const ps = byAuthor(k); const a = authors[k]; return `<p class="sec">${esc(nm(a, lang)).toUpperCase()}</p>${ps.length ? `<div class="list">${ps.map((p) => `<a class="card" href="${BASE[lang]}${p.slug}.html"><h3>${esc(p[lang].title)}</h3><p>${esc(p[lang].desc)}</p><small>${p.date.split("-").reverse().join("/")} · ${minutes(lang, p[lang].body)} ${esc(t.min)}</small></a>`).join("")}</div>` : `<p class="lead" style="margin:0 0 40px">${esc(t.soon)}</p>`}`; };
     const hubMain = `<article class="fd"><div class="wrap">
 <header class="nh"><span class="eyebrow" style="color:var(--rose)">${esc(t.eyebrow)}</span><h1>${esc(t.hub)}</h1><p class="lead">${esc(t.intro)}</p></header>
-<div class="authors">${Object.keys(authors).map((k) => authorCard(authors[k], lang)).join("")}</div>
+${pinBlock}<div class="authors">${Object.keys(authors).map((k) => authorCard(authors[k], lang)).join("")}</div>
 ${ebookBlock(ebook, lang)}
 ${Object.keys(authors).map(col).join("\n")}
 ${ctaBlock(lang)}
