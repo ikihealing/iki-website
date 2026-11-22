@@ -109,7 +109,7 @@ Nhìn chung, không có nhóm nào "đúng" cho tất cả mọi người. Lựa
 
 ## Trà Tuệ Minh — một lựa chọn thảo mộc Việt cho nếp uống ấm
 
-![Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKIHEALING](../assets/san-pham/tra-tue-minh.jpg)
+![Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKIHEALING](../assets/san-pham/bo-anh/tra-tue-minh/01-anh-chinh.webp)
 
 Xem [thông tin đầy đủ về Trà Tuệ Minh](../san-pham/tra-tue-minh.html): thành phần, quy cách, cách pha đúng nhiệt độ và giá niêm yết.
 

@@ -112,7 +112,7 @@ Một cách chọn thú vị nữa là để ý tới mùa và tâm trạng củ
 
 ## Trà Thanh Hương — nếp uống ấm thơm dịu cho buổi tối
 
-![Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKIHEALING cùng tách trà và túi lọc](../assets/san-pham/tra-thanh-huong.jpg)
+![Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKIHEALING cùng tách trà và túi lọc](../assets/san-pham/bo-anh/tra-thanh-huong/01-anh-chinh.webp)
 
 Xem [thông tin đầy đủ về Trà Thanh Hương](../san-pham/tra-thanh-huong.html): bốn vị thảo mộc, cách pha và giá niêm yết.
 
