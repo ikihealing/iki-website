@@ -126,7 +126,7 @@ Trang bán hàng ít khi nói phần này, nhưng với nhiều người đây l
 - **Nutrilite có đậu nành và lúa mì.** Nhãn tiếng Việt in rõ "sản phẩm có chứa đậu nành và lúa mì". Người dị ứng đậu nành, người không dung nạp gluten hoặc đang được dặn ăn kiêng gluten nên bỏ qua dòng này.
 - **Orgain bản gốc ghi không đậu nành, không sữa, không gluten.** Chữ "gluten free" trên hàng Mỹ chỉ được in khi sản phẩm đạt ngưỡng dưới 20 ppm gluten theo quy định ghi nhãn của FDA. Tuy vậy có hạt chia, và các vị bơ đậu phộng thì có đậu phộng.
 - **Người có bệnh thận, đang được bác sĩ dặn kiểm soát lượng đạm** nên hỏi bác sĩ trước khi dùng bất kỳ bột đạm nào. Thông tin nền có ở bài [Uống đạm thực vật có hại thận không](uong-dam-thuc-vat-co-hai-than-khong.html).
-- **Người đang được dặn kiểm soát đường huyết** nên ưu tiên bản không đường, đọc kỹ dòng carbohydrate và đường trên bảng dinh dưỡng, và trao đổi với bác sĩ về cách đưa vào bữa ăn. Bột đạm là thực phẩm, không có vai trò thay thuốc hay thay chế độ ăn bác sĩ đã dặn.
+- **Người đang được dặn kiểm soát đường huyết** nên ưu tiên bản không đường, đọc kỹ dòng carbohydrate và đường trên bảng dinh dưỡng, và trao đổi với bác sĩ về cách đưa vào bữa ăn.
 - **Trẻ nhỏ, phụ nữ mang thai và đang cho con bú** nên hỏi chuyên gia dinh dưỡng trước; khẩu phần in trên hộp là tính cho người lớn.
 
 Về chuyện đạm đậu nành phân lập, đây là thành phần đã được dùng rộng rãi và nghiên cứu nhiều. Nó không "xấu" như một số bài lan truyền trên mạng, nhưng cũng không hợp với tất cả mọi người, nhất là người dị ứng. Đọc dòng dị ứng là đủ để quyết định, không cần lo lắng thêm.
