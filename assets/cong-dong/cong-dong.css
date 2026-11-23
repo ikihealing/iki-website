@@ -1,0 +1,34 @@
+/* Trang Cộng đồng — lưới thẻ kênh (23/11/2026) */
+.cd-intro{max-width:720px;color:var(--muted);margin-bottom:0}
+.cd-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:40px}
+.cd-card{display:flex;flex-direction:column;background:#ffffff;border:1px solid #e3ebe7;border-radius:8px;overflow:hidden;box-shadow:0 10px 28px rgba(9,73,56,.07)}
+.cd-cover{aspect-ratio:2/1;width:100%;height:auto;background:#e8f1ec}
+.cd-body{display:flex;flex-direction:column;flex:1;padding:24px 26px 26px}
+.cd-card h3{font-size:26px;color:#094938;margin-bottom:8px}
+.cd-desc{color:var(--muted);font-size:14px;line-height:1.6;margin-bottom:18px}
+.cd-stats{display:flex;gap:22px;margin:0 0 18px;padding:0;list-style:none}
+.cd-stats li{display:flex;align-items:center;gap:10px;line-height:1.3}
+.cd-stats svg{width:36px;height:36px;padding:8px;border:1px solid #d6e4dd;border-radius:8px;color:#094938}
+.cd-stats b{display:block;font-size:19px;color:#094938;font-weight:700;font-variant-numeric:tabular-nums}
+.cd-stats span{font-size:12px;color:var(--muted)}
+.cd-tags{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px;padding:0 0 20px;list-style:none;border-bottom:1px solid #e3ebe7}
+.cd-tags li{background:#eef5f1;color:#1f5a48;font-size:12px;line-height:1.4;padding:6px 11px;border-radius:6px}
+.cd-hl{font-family:Interface,Arial,sans-serif;font-size:15px;font-weight:700;color:#094938;margin:0 0 8px;display:flex;align-items:center;gap:8px}
+.cd-hl svg{width:18px;height:18px;color:#daa74b}
+.cd-list{margin:0 0 22px;padding-left:18px;font-size:14px;line-height:1.6;color:#33463f}
+.cd-list li{margin-bottom:6px}
+.cd-list li::marker{color:#daa74b}
+.cd-actions{margin-top:auto;display:grid;gap:10px}
+.cd-actions .btn{margin:0;width:100%;justify-content:center;gap:10px;min-height:48px;border-radius:6px;font-size:14px;font-weight:600;background:#094938;border-color:#094938;color:#ffffff}
+.cd-actions .btn svg{width:18px;height:18px}
+.cd-actions .btn.secondary{background:#ffffff;color:#094938;border:1.5px solid #094938}
+.cd-actions .btn.secondary:hover{background:#f1f7f4;filter:none}
+.cd-note{margin:26px 0 0;text-align:center;font-size:13px;color:var(--muted)}
+.cd-band{max-width:1160px;margin-top:24px;margin-bottom:96px;background:#094938;color:#ffffff;border-radius:8px;border-top:3px solid #daa74b;padding:56px 40px;text-align:center}
+.cd-band h2{color:#ffffff;font-size:clamp(30px,3.4vw,44px);margin-bottom:14px}
+.cd-band p{color:#d7e6df;max-width:640px;margin:0 auto 28px}
+.cd-band-actions{display:flex;justify-content:center;gap:14px;flex-wrap:wrap}
+.cd-band-actions .btn{margin:0;justify-content:center;gap:10px;min-height:50px;border-radius:6px;font-size:14px;font-weight:600;background:#daa74b;border-color:#daa74b;color:#0b2e25}
+.cd-band-actions .btn.secondary{background:transparent;color:#ffffff;border:1.5px solid #ffffff}
+@media (max-width:1020px){.cd-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:680px){.cd-grid{grid-template-columns:1fr;gap:18px;margin-top:28px}.cd-body{padding:20px}.cd-card h3{font-size:24px}.cd-stats{gap:16px}.cd-band{max-width:none;margin-left:24px;margin-right:24px;padding:40px 20px;margin-bottom:64px}.cd-band-actions .btn{width:100%}}
