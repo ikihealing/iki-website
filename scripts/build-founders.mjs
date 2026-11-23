@@ -57,6 +57,12 @@ function md(body) {
     if (lines[0].startsWith("### ")) { out.push(`<h3>${inline(lines[0].slice(4))}</h3>`); if (lines.length > 1) out.push(`<p>${inline(lines.slice(1).join(" "))}</p>`); continue; }
     if (lines.every((l) => /^\s*-\s/.test(l))) { out.push(`<ul>${lines.map((l) => `<li>${inline(l.replace(/^\s*-\s/, ""))}</li>`).join("")}</ul>`); continue; }
     if (lines.every((l) => /^\s*\d+\.\s/.test(l))) { out.push(`<ol>${lines.map((l) => `<li>${inline(l.replace(/^\s*\d+\.\s/, ""))}</li>`).join("")}</ol>`); continue; }
+    // Ảnh minh chứng: mỗi dòng "![chú thích](/assets/...)"; nhiều dòng trong một khối thì xếp hai cột.
+    if (lines.every((l) => /^!\[[^\]]*\]\([^)\s]+\)$/.test(l))) {
+      const figs = lines.map((l) => { const [, cap, src] = l.match(/^!\[([^\]]*)\]\(([^)\s]+)\)$/); return `<figure><img src="${esc(src)}" alt="${esc(cap)}" loading="lazy">${cap ? `<figcaption>${esc(cap)}</figcaption>` : ""}</figure>`; });
+      out.push(figs.length > 1 ? `<div class="duo">${figs.join("")}</div>` : figs[0]);
+      continue;
+    }
     if (lines.every((l) => l.startsWith(">"))) { out.push(`<p class="note">${inline(lines.map((l) => l.replace(/^>\s?/, "")).join(" "))}</p>`); continue; }
     out.push(`<p>${inline(lines.join(" "))}</p>`);
   }
@@ -97,6 +103,7 @@ const CSS = `
 .fd .body h3{font-size:20px;line-height:1.35;margin:28px 0 8px;color:var(--plum)}
 .fd .body ul,.fd .body ol{padding-left:22px}
 .fd .body li{margin:6px 0}
+.fd .body figure{margin:24px 0}.fd .body figure img{display:block;width:100%;height:auto;border:1px solid #e3e3e3;border-radius:6px}.fd .body figcaption{font-size:14px;line-height:1.5;color:#6b6b6b;margin-top:8px}.fd .body .duo{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:start;margin:24px 0}.fd .body .duo figure{margin:0}
 .fd .body a{color:var(--rose);text-decoration:underline}
 .fd .note{border-left:3px solid var(--rose);padding:12px 18px;background:#fff;border:1px solid var(--line);border-left:3px solid var(--rose);border-radius:6px;font-size:15px}
 .fd .authors{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:36px 0}
@@ -196,7 +203,7 @@ ${ctaBlock(lang)}
 <p><a href="${BASE[lang]}" style="color:var(--rose)">← ${esc(t.back)}</a></p>
 <p class="disc">${esc(t.note)}</p>
 </div></article>`;
-      const ld = { "@context": "https://schema.org", "@type": "Article", headline: c.title, description: c.desc, inLanguage: lang, datePublished: p.date, dateModified: p.updated || p.date, author: { "@type": "Person", name: a.name, jobTitle: a.en.role, worksFor: { "@type": "Organization", name: "HOPE SERVICE CORPORATION (HOPE CORP)" } }, publisher: { "@type": "Organization", name: "IKIHEALING Beauty & Wellness", logo: { "@type": "ImageObject", url: `${SITE}/assets/brand/20261119/iki-icon-1024.png` } }, image: `${SITE}${a.photo}`, mainEntityOfPage: `${SITE}${alt[lang]}` };
+      const ld = { "@context": "https://schema.org", "@type": "Article", headline: c.title, description: c.desc, inLanguage: lang, datePublished: p.date, dateModified: p.updated || p.date, author: { "@type": "Person", name: a.name, jobTitle: a.en.role, worksFor: { "@type": "Organization", name: "HOPE SERVICE CORPORATION (HOPE CORP)" } }, publisher: { "@type": "Organization", name: "IKIHEALING", logo: { "@type": "ImageObject", url: `${SITE}/assets/brand/20261119/iki-icon-1024.png` } }, image: `${SITE}${a.photo}`, mainEntityOfPage: `${SITE}${alt[lang]}` };
       fs.writeFileSync(path.join(dir, `${p.slug}.html`), shell(lang, { title: `${c.title} | Founders HOPE CORP`, desc: c.desc, altPaths: alt, ogImage: a.photo, ld, main }));
       urls.push(`${SITE}${alt[lang]}`);
     }
