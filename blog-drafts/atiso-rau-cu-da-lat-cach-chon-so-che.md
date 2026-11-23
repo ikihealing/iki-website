@@ -11,29 +11,29 @@
   "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/atiso-rau-cu-da-lat-cach-chon-so-che-hero.jpg",
   "hero_alt": "Mấy bông atiso xanh, bắp cải tím, cà rốt và súp lơ xếp trên mặt bàn gỗ trong một gian bếp sáng",
-  "reading_min": 15,
+  "reading_min": 13,
   "khuyen_cao": ["dam"],
-  "answer": "Ở Đà Lạt, atiso và rau củ có gần như quanh năm nhờ khí hậu mát ở độ cao khoảng 1.500 m, nhưng mùa khô (khoảng tháng 12 đến tháng 4) là lúc hàng đẹp và dễ mang đi xa nhất. Chọn bông atiso còn búp, lá bắc ôm chặt, cầm nặng tay; rau củ chọn loại chắc, cuống tươi. Atiso cần cắt ngọn, bỏ lá già, ngâm nước chanh rồi hầm hoặc luộc 25 đến 45 phút, ăn phần thịt ở gốc lá và phần đế.",
+  "answer": "Atiso và rau củ Đà Lạt có gần như quanh năm nhờ khí hậu mát ở độ cao khoảng 1.500 m; báo chí địa phương ghi nhận atiso thường thu hoạch rộ từ cuối năm đến khoảng tháng 3, tháng 4. Chọn bông còn búp, lá bắc ôm chặt, cầm nặng tay. Sơ chế bằng cách cắt ngọn, bỏ lá già, ngâm nước chanh, rồi hầm hoặc luộc tới khi rút lá dễ dàng.",
   "faq": [
     {
       "q": "Mua atiso tươi ở Đà Lạt mang về TP.HCM hay Hà Nội có giữ được không?",
-      "a": "Giữ được vài ngày nếu đóng đúng cách. Để nguyên cuống, không rửa, bọc từng bông bằng giấy bếp hoặc giấy báo sạch rồi xếp vào thùng có lỗ thông hơi, tránh nhét chung với rau lá dễ dập. Về tới nhà thì cho vào ngăn mát và nấu trong vài ngày đầu, vì để lâu lá bắc khô dần ở đầu và phần đế mất độ ngọt. Nếu đi đường dài nhiều chặng, hãy mua atiso vào buổi sáng cuối cùng trước khi rời đi."
+      "a": "Giữ được vài ngày nếu để nguyên cuống, không rửa và bọc giấy từng bông. Cách đóng thùng và thứ tự mua có trong mục Mang rau củ Đà Lạt về nhà mà không héo."
     },
     {
       "q": "Atiso cắt ra bị thâm đen có ăn được không?",
-      "a": "Ăn được. Mặt cắt của atiso chuyển màu rất nhanh khi gặp không khí, giống táo hay khoai tây gọt vỏ, đó là phản ứng tự nhiên chứ không phải dấu hiệu hư. Để món trông đẹp hơn, chà nửa quả chanh lên mặt cắt và ngâm bông vào bát nước có vắt chanh trong lúc sơ chế. Thứ cần bỏ là bông có mùi lạ, mốc ở chân lá hoặc nhũn, chứ không phải bông chỉ bị thâm ở chỗ cắt."
+      "a": "Ăn được, mặt cắt thâm là phản ứng tự nhiên khi gặp không khí, giống táo gọt vỏ. Thứ cần bỏ là bông có mùi lạ, mốc ở chân lá hoặc nhũn."
     },
     {
       "q": "Rau bán ngoài chợ ghi 'rau Đà Lạt' có chắc là trồng ở Đà Lạt không?",
-      "a": "Không chắc. Chữ 'Đà Lạt' trên sạp hay trên bao bì nhiều khi chỉ là cách gọi một kiểu rau củ ôn đới như cải thảo, súp lơ, cà rốt, chứ không phải bằng chứng về nơi trồng. Cách thực tế là hỏi người bán lấy hàng từ đâu, ưu tiên hàng có tem truy xuất nguồn gốc hoặc nơi bán quen, và chấm hàng bằng chính mắt mình theo các dấu hiệu tươi trong bài, thay vì trả thêm tiền chỉ vì một cái nhãn."
+      "a": "Không chắc, chữ 'Đà Lạt' nhiều khi chỉ là tên gọi một kiểu rau ôn đới. Xem các dấu hiệu nhận hàng ở cuối mục Rau củ khác ở chợ Đà Lạt."
     },
     {
-      "q": "Đi Đà Lạt mùa mưa có nên mua rau củ làm quà không?",
-      "a": "Vẫn nên, nhưng chọn loại chịu đường xa. Mùa mưa (khoảng tháng 5 đến tháng 10) rau lá dễ úng và dập hơn, nên ưu tiên củ quả cứng như cà rốt, khoai tây, củ dền, su su, bắp cải cuốn chặt, cùng atiso khô có nhãn rõ ràng. Rau lá mềm và dâu tây nên mua sát giờ về, để chỗ thoáng, không xếp nhiều lớp."
+      "q": "Nấu nước atiso khô dùng bao nhiêu là vừa?",
+      "a": "Cách pha thông dụng là khoảng 5 đến 10 g atiso khô cho một lít nước, đun nhỏ lửa chừng 10 đến 15 phút. Chi tiết và cách cất trong mục Nấu nước atiso khô."
     },
     {
       "q": "Ai nên thận trọng khi ăn nhiều atiso?",
-      "a": "Người từng dị ứng với cây họ Cúc (như cúc, hướng dương, ngải cứu) nên thử lượng nhỏ trước vì atiso cùng họ này. Người đang có bệnh lý về túi mật, đang mang thai, cho con bú hoặc đang dùng thuốc thường xuyên nên hỏi bác sĩ trước khi dùng các dạng cô đặc như cao atiso hay viên chiết xuất. Ăn atiso như một món rau trong bữa cơm gia đình thì phần lớn mọi người đều dùng được."
+      "a": "Theo Memorial Sloan Kettering, người dị ứng cây họ Cúc nên tránh atiso, và người có bệnh lý túi mật nên hỏi bác sĩ trước khi dùng dạng chiết xuất. Người đang mang thai, cho con bú hoặc dùng thuốc thường xuyên cũng nên hỏi bác sĩ trước khi dùng cao, viên atiso."
     }
   ],
   "related": [
@@ -47,47 +47,17 @@
 }
 ---
 
-Hỏi mười người vừa đi Đà Lạt về mang gì trong cốp xe, phần lớn sẽ kể cùng một danh sách: vài bông atiso, một túi dâu, ít cà rốt với bắp cải, gói mứt, gói atiso khô. Rau củ Đà Lạt đã thành một thứ quà rất riêng, vừa rẻ hơn mua lẻ ở thành phố, vừa có cảm giác "tận gốc". Nhưng cũng chính những món quà ấy hay bị héo trên đường, hoặc mang về rồi nằm trong tủ lạnh vì không biết nấu thế nào, nhất là bông atiso.
+Hỏi mười người vừa đi Đà Lạt về mang gì trong cốp xe, phần lớn sẽ kể cùng một danh sách: vài bông atiso, một hộp dâu, ít cà rốt với bắp cải, gói atiso khô. Rau củ Đà Lạt có một thứ cảm giác "tận gốc" mà mua ở siêu thị thành phố khó có được. Còn chuyện rẻ hay đắt thì tuỳ nơi mua: sạp trong chợ, vựa ven đường hay vườn mở cửa cho khách mỗi nơi một giá, và nơi đông khách du lịch chưa chắc đã rẻ hơn chợ gần nhà bạn.
 
-Bài này viết cho người đang lên kế hoạch đi Đà Lạt và muốn chuyến đi có thêm một mục đích nhỏ: mua đúng, mang về được, và nấu thành những bữa ăn lành mạnh cho cả nhà. Phần đầu là những thông tin nhanh về Đà Lạt bây giờ, mùa nào đi hợp, chợ và vùng rau nằm ở đâu. Phần sau đi sâu vào atiso và các loại rau củ: chọn thế nào, sơ chế thế nào, nấu thế nào, cùng vài lịch trình gợi ý cho từng kiểu người đi.
-
-## Đà Lạt bây giờ: vài điều cần biết trước khi đi
-
-**Vị trí và khí hậu.** Đà Lạt nằm trên cao nguyên Lâm Viên, độ cao khoảng 1.500 m so với mực nước biển. Chính độ cao này tạo ra khí hậu mát quanh năm, ban ngày dễ chịu, ban đêm se lạnh, và là lý do vùng này trồng được những loại rau củ vốn quen ở xứ ôn đới như atiso, súp lơ, cải thảo, cà rốt, khoai tây, dâu tây.
-
-**Một thay đổi về tên gọi hành chính.** Từ ngày 1/7/2025, sau đợt sắp xếp lại đơn vị hành chính, tỉnh Lâm Đồng mới được hợp nhất từ Lâm Đồng, Đắk Nông và Bình Thuận, đồng thời cấp huyện và thành phố trực thuộc tỉnh không còn. Đà Lạt vì thế không còn là một "thành phố" theo nghĩa hành chính; khu vực nội thị cũ được chia thành các phường mang tên ghép, ví dụ Xuân Hương - Đà Lạt, Lâm Viên - Đà Lạt, Lang Biang - Đà Lạt. Trong đời sống và du lịch, mọi người vẫn gọi chung là Đà Lạt. Điều này đáng biết khi bạn điền địa chỉ nhận hàng, đặt phòng hay gửi rau củ qua đơn vị vận chuyển: hãy ghi đúng tên phường mới, tránh để đơn bị trả về vì địa chỉ cũ.
-
-**Khoảng cách.** Từ TP.HCM lên Đà Lạt đường bộ khoảng 300 km, đi xe khách thường mất sáu đến tám tiếng tuỳ tuyến và tình trạng đường. Từ Nha Trang khoảng 140 km qua đèo. Đi máy bay thì hạ cánh ở sân bay Liên Khương, cách khu trung tâm khoảng 30 km. Với người mua rau củ mang về, thời gian di chuyển quyết định bạn nên mua loại gì và đóng gói ra sao, phần này nói kỹ ở dưới.
-
-## Đà Lạt mùa nào đẹp, mùa nào rau ngon
-
-Đà Lạt có hai mùa rõ rệt. Nhìn từ góc người đi chợ, mỗi mùa có cái lợi riêng.
-
-**Mùa khô, khoảng tháng 12 đến tháng 4.** Trời trong, ít mưa, đêm lạnh nhất vào khoảng tháng 12 và tháng 1. Đây là thời điểm rau củ đẹp mã, ít dập úng, dâu tây ngọt hơn và atiso bày nhiều ở chợ. Cũng là mùa đông khách nhất vì trùng dịp cuối năm, Tết và mùa hoa mai anh đào. Mặc gì: áo khoác ấm cho buổi tối và sáng sớm, khăn quàng, tất; ban trưa nắng hanh nên vẫn cần kem chống nắng và son dưỡng.
-
-**Mùa mưa, khoảng tháng 5 đến tháng 10.** Mưa thường đến vào buổi chiều, có những đợt mưa dầm vài ngày liền, nhiều nhất vào cuối mùa. Rau lá dễ úng hơn, đường đèo có lúc sương mù và sạt lở. Bù lại, khách ít, giá phòng mềm hơn, và đây là mùa bơ, mùa hồng bắt đầu chín về cuối mùa. Mặc gì: áo mưa gọn, giày đế bám, một chiếc áo khoác nhẹ chống gió.
-
-**Chuyển mùa, tháng 10 và 11.** Nhiều người coi đây là quãng đẹp nhất: mưa thưa dần, hoa dã quỳ nở vàng ven đường, trời mát mà chưa rét. Rau củ bắt đầu vào giai đoạn đẹp của mùa khô.
-
-Một điều nên nhớ: nhờ trồng trong nhà kính và nhà lưới, phần lớn rau củ Đà Lạt có gần như quanh năm. "Mùa" ở đây là chuyện hàng đẹp hơn, nhiều hơn và dễ mang đi xa hơn, chứ không phải tháng này có, tháng kia không.
-
-## Đi lại ở Đà Lạt và chợ, vùng rau nằm ở đâu
-
-**Trong khu trung tâm**, các điểm quen thuộc như hồ Xuân Hương, chợ Đà Lạt, quảng trường Lâm Viên nằm gần nhau, đi bộ hoặc taxi đều tiện. Muốn ra vùng ven xem vườn rau, vườn atiso, vườn dâu thì cần xe máy thuê, ô tô hoặc xe công nghệ. Đường Đà Lạt nhiều dốc và cua, buổi sáng sớm có sương, nên nếu không quen lái xe máy đường đèo thì chọn ô tô cho an toàn.
-
-**Chợ Đà Lạt** là nơi tiện nhất để mua rau củ, đồ khô và quà. Khu rau củ tươi hoạt động từ sáng sớm, hàng đẹp nhất khi chợ mới mở. Buổi tối phía trước chợ có chợ đêm, chủ yếu đồ ăn vặt, quần áo và đồ lưu niệm; rau củ buổi tối thường là hàng còn lại trong ngày.
-
-**Vùng ven** là nơi trồng rau, hoa và atiso, với các vườn mở cửa cho khách tham quan và mua tại vườn. Mua ở vườn có cái hay là thấy tận mắt cây đang trồng thế nào, nhưng không phải lúc nào cũng rẻ hơn chợ, vì nhiều vườn tính cả phần trải nghiệm. Hãy coi đó là một buổi đi chơi, đừng kỳ vọng là "giá gốc".
-
-**Kẹt xe là chuyện có thật.** Cuối tuần và các dịp lễ, Tết, khu trung tâm và các tuyến lên xuống đèo có thể ùn tắc kéo dài. Nếu đi đúng dịp đông, hãy đi chợ thật sớm, dời các điểm vùng ven sang ngày thường, và tính dư thời gian ra sân bay hoặc bến xe.
+Chuyến đi đầu tiên của nhiều người kết thúc giống nhau. Bốn bông atiso to đẹp mua từ chiều hôm trước, nhét chung túi nilon với xà lách, sau tám tiếng xe khách thì lá ngoài xỉn màu, đầu lá khô quắt, còn xà lách thì nhũn. Về tới nhà, mấy bông atiso nằm trong tủ lạnh thêm một tuần vì không ai biết bắt đầu cắt từ đâu. Bài này viết để chuyện đó không lặp lại: chọn thế nào, sơ chế ra sao, nấu món gì, mang về thế nào, và mua bao nhiêu là vừa. Phần thông tin đi lại được dồn gọn ở cuối bài.
 
 ## Atiso: hiểu đúng một loại rau "lạ mà quen"
 
 Atiso (tên khoa học *Cynara scolymus*) là một loài cây họ Cúc. Phần người ta ăn là **bông atiso khi còn là búp**, chưa nở hoa. Mỗi bông gồm nhiều lớp lá bắc xếp chồng; phần ăn được là lớp thịt mềm ở gốc mỗi lá bắc và phần **đế bông** ở giữa, nơi ngon và bùi nhất. Ở chính giữa đế có một lớp lông tơ, đó là phần phải bỏ.
 
-Người Việt quen thuộc với atiso qua ba dạng: bông tươi để hầm hoặc luộc; bông, thân, rễ thái lát phơi khô để nấu nước; và các dạng cao, viên. Trên mạng có rất nhiều lời gán cho atiso những công dụng lớn đối với cơ thể. Bài này không đi theo hướng đó. Chúng tôi nhìn atiso đơn giản là **một loại rau ngon, giàu chất xơ**, đáng có mặt trong bữa ăn đa dạng của gia đình, giống như súp lơ hay đậu bắp.
+Người Việt quen với atiso qua ba dạng: bông tươi để hầm hoặc luộc; bông, thân, rễ thái lát phơi khô để nấu nước; và các dạng cao, viên. Trên mạng có rất nhiều lời gán cho atiso những công dụng lớn đối với cơ thể. Bài này không đi theo hướng đó. Chúng tôi nhìn atiso đơn giản là **một loại rau ngon, nhiều chất xơ**, đáng có mặt trong bữa ăn đa dạng của gia đình, giống như súp lơ hay đậu bắp.
 
-Về dinh dưỡng, cơ sở dữ liệu FoodData Central của Bộ Nông nghiệp Hoa Kỳ xếp atiso vào nhóm rau có lượng chất xơ khá cao so với nhiều loại rau thông dụng, kèm folate, vitamin K và một số khoáng chất. Một phần chất xơ trong atiso là inulin, loại chất xơ hoà tan mà vi khuẩn có lợi trong ruột dùng làm thức ăn. Nhưng xin nói rõ: đó là đặc điểm của một thực phẩm, không phải lời hứa về một kết quả sức khoẻ nào. Mỗi người một thể trạng, nên cách ăn hợp với bạn cũng khác; nếu muốn có điểm xuất phát cụ thể, bạn có thể [kiểm tra thể trạng trong 90 giây](https://ikihealing.com/quiz) trước khi lên thực đơn.
+Con số cụ thể: theo số liệu của FoodData Central (Bộ Nông nghiệp Hoa Kỳ), 100 g atiso luộc, để ráo, không muối có khoảng 5,7 g chất xơ. Một bông cỡ vừa sau khi luộc nặng khoảng 120 g, tức gần 7 g chất xơ, nhiều hơn phần lớn các loại rau ăn lá cùng khối lượng. Đó là đặc điểm của một thực phẩm, không phải lời hứa về một kết quả sức khoẻ nào.
 
 ## Cách chọn bông atiso tươi ở chợ Đà Lạt
 
@@ -99,9 +69,9 @@ Về dinh dưỡng, cơ sở dữ liệu FoodData Central của Bộ Nông nghi�
 - **Màu xanh đều, đầu lá không khô.** Vài vết nâu nhạt trên lá ngoài, nhất là mùa lạnh, thường chỉ do sương và không ảnh hưởng phần bên trong. Thứ nên tránh là đầu lá khô quắt, chân lá thâm đen, có mốc hoặc mùi chua.
 - **Cuống tươi, mặt cắt còn ẩm.** Cuống khô xốp, mặt cắt sẫm màu là bông đã cắt nhiều ngày.
 
-Về cỡ bông: bông to nhiều đế, hợp hầm hoặc luộc cả bông; bông nhỏ hợp bổ đôi, bổ tư để xào hoặc nướng. Ở chợ Đà Lạt, người bán thường để riêng atiso tươi, atiso khô và thân, rễ thái lát. Với atiso khô, hãy ưu tiên gói có nhãn ghi nơi sản xuất, ngày đóng gói, hạn dùng; hàng xá đựng trong bao lớn khó biết đã để bao lâu.
+Về cỡ bông: bông to nhiều đế, hợp hầm hoặc luộc cả bông; bông nhỏ hợp bổ đôi, bổ tư để xào hoặc nướng. Ở chợ Đà Lạt, người bán thường để riêng atiso tươi, atiso khô và thân, rễ thái lát. Với atiso khô, ưu tiên gói có nhãn ghi nơi sản xuất, ngày đóng gói, hạn dùng; hàng xá đựng trong bao lớn khó biết đã để bao lâu.
 
-**Một mẹo về giá.** Đừng mua ở sạp đầu tiên. Đi một vòng hỏi hai, ba nơi, để ý loại hàng và cỡ bông họ đang báo, rồi mới quyết. Khu đông khách du lịch dễ bị nói thách hơn; hỏi giá trước khi người bán cân, và kiểm tra lại số lượng trước khi trả tiền.
+Chuyện giá thì đi một vòng hỏi hai, ba sạp trước khi mua, hỏi rõ tính theo bông hay theo cân, và kiểm lại số lượng trước khi trả tiền. Khu đông khách du lịch dễ bị nói thách hơn khu bán cho người địa phương.
 
 ## Sơ chế atiso từng bước
 
@@ -114,9 +84,9 @@ Atiso trông khó, nhưng làm một lần là quen. Chuẩn bị trước một
 5. **Chà chanh** lên mọi mặt cắt rồi thả ngay vào bát nước chanh.
 6. Nếu muốn bổ đôi hoặc bổ tư, dùng thìa nạo bỏ lớp **lông tơ** ở giữa đế ngay lúc này. Nếu hầm cả bông thì để sau khi chín mới nạo, dễ hơn nhiều.
 
-Một lưu ý nhỏ của người hay nấu: atiso dễ làm xỉn màu nồi nhôm hoặc nồi gang trần, và món cũng sẫm lại. Nồi inox hoặc nồi tráng men cho màu đẹp hơn.
+Một lưu ý của người hay nấu: atiso dễ làm xỉn màu nồi nhôm hoặc nồi gang trần, và món cũng sẫm lại. Nồi inox hoặc nồi tráng men cho màu đẹp hơn.
 
-**Biết thế nào là chín?** Rút thử một lá bắc ở khoảng giữa bông: nếu lá tuột ra dễ dàng và phần thịt ở gốc lá mềm, xiên que vào đế thấy ngọt dao, là bông đã chín. Bông vừa thường cần khoảng 25 đến 45 phút đun liu riu tuỳ cỡ; nồi áp suất thì nhanh hơn nhiều.
+**Biết thế nào là chín?** Rút thử một lá bắc ở khoảng giữa bông: nếu lá tuột ra dễ dàng, phần thịt ở gốc lá mềm, xiên que vào đế thấy ngọt dao, là bông đã chín. Bông vừa thường cần khoảng 25 đến 45 phút đun liu riu tuỳ cỡ; nồi áp suất thì nhanh hơn nhiều.
 
 **Ăn thế nào?** Rút từng lá, chấm nước chấm, dùng răng tuốt lấy phần thịt mềm ở gốc lá rồi bỏ phần lá xơ. Càng vào trong lá càng mỏng và mềm. Tới lớp lá non màu tím nhạt thì nhấc cả cụm ra, nạo bỏ lông tơ, phần còn lại chính là đế bông, ăn được toàn bộ.
 
@@ -124,78 +94,106 @@ Một lưu ý nhỏ của người hay nấu: atiso dễ làm xỉn màu nồi n
 
 **Atiso hầm rau củ.** Đây là cách phổ biến nhất ở các gia đình Việt. Hầm bông atiso đã sơ chế với cà rốt, củ cải trắng, bắp ngô cắt khúc và nấm đông cô; thêm đậu phụ chiên nếu ăn chay, hoặc một ít xương nếu ăn mặn. Nước hầm có vị ngọt của rau củ, phảng phất hơi đắng nhẹ rất riêng của atiso. Nêm nhạt tay, vì vị atiso vốn đã đậm.
 
-**Atiso luộc chấm.** Cách đơn giản nhất để nếm đúng vị atiso. Luộc cả bông trong nồi nước có vài lát gừng, ăn nóng, chấm với muối tiêu chanh, nước tương pha tỏi ớt, hoặc một chén dầu ô liu trộn chút chanh và tiêu. Món này hợp làm món khai vị cho bữa tối cả nhà ngồi bóc từng lá, trẻ con thường thích vì như một trò chơi.
+Nồi hầm này nhiều rau nhưng ít đạm nếu bạn nấu chay mà quên đậu phụ. Cơ thể vẫn cần đạm từ đậu phụ, trứng, cá, thịt, các loại đậu, hoặc một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh vào những hôm đi chơi về muộn, không kịp nấu thêm món mặn. Cách chia phần rau, tinh bột, đạm trên một chiếc đĩa có trong bài [Cách chia đĩa bữa ăn cân bằng](cach-chia-dia-bua-an-can-bang.html).
+
+**Atiso luộc chấm.** Cách đơn giản nhất để nếm đúng vị atiso. Luộc cả bông trong nồi nước có vài lát gừng, ăn nóng, chấm với muối tiêu chanh, nước tương pha tỏi ớt, hoặc một chén dầu ô liu trộn chút chanh và tiêu. Món này hợp làm món khai vị cho bữa tối cả nhà ngồi bóc từng lá; trẻ con thường thích vì như một trò chơi.
 
 **Đế atiso áp chảo hoặc nướng.** Với bông nhỏ, bổ tư, nạo lông tơ, chần sơ khoảng mười phút rồi áp chảo với chút dầu và tỏi tới khi mép vàng. Ăn kèm salad xà lách, cà chua bi, hạt, hoặc trộn vào mì, cơm gạo lứt. Đây là cách biến atiso thành một phần của đĩa ăn hằng ngày thay vì chỉ là "món đặc biệt".
 
-Muốn đĩa ăn có atiso trở thành một bữa đủ chất, hãy nhìn vào phần đạm. Rau củ cho chất xơ, vitamin, khoáng chất, nhưng cơ thể vẫn cần đạm từ đậu phụ, trứng, cá, thịt, các loại đậu, hoặc một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh vào những hôm đi chơi về muộn, không kịp nấu. Cách chia phần rau, tinh bột, đạm trên một chiếc đĩa có trong bài [Cách chia đĩa bữa ăn cân bằng](cach-chia-dia-bua-an-can-bang.html).
+## Nấu nước atiso khô
 
-## Các loại rau củ Đà Lạt khác: chọn sao cho đúng
+Gói atiso khô mua ở chợ Đà Lạt thường là bông, thân hoặc rễ thái lát. Nấu thành một thức uống ấm cho cả nhà khá đơn giản:
 
-Ngoài atiso, chợ Đà Lạt bày rất nhiều rau củ ôn đới. Vài dấu hiệu nhanh cho những loại hay được mua làm quà:
+- **Tỉ lệ:** khoảng 5 đến 10 g atiso khô (chừng một, hai nhúm tay) cho một lít nước. Đây là mức nhiều hướng dẫn pha thông dụng đưa ra; thân và rễ đậm vị hơn bông nên bắt đầu từ mức thấp.
+- **Cách nấu:** tráng qua atiso khô bằng nước sôi rồi đổ đi, cho vào nồi với nước lạnh, đun sôi rồi hạ nhỏ lửa khoảng 10 đến 15 phút. Đun càng lâu nước càng sẫm và càng đắng, nên nếm dần rồi tắt bếp đúng vị mình thích. Một lát gừng hoặc vài lá dứa làm nước thơm hơn; nên để nước nhạt, ít hoặc không đường.
+- **Cất giữ:** để nguội, lọc bỏ bã, rót vào bình thuỷ tinh có nắp, cất ngăn mát và uống trong khoảng một ngày. Nước để ngoài nhiệt độ phòng qua đêm thì bỏ.
+- **Atiso khô chưa nấu:** buộc kín miệng túi, cất chỗ khô ráo, tránh nắng và hơi ẩm, giống cách giữ hương cho trà khô trong bài [Bảo quản trà thảo mộc giữ hương](bao-quan-tra-thao-moc-giu-huong.html).
 
-- **Súp lơ xanh, súp lơ trắng:** bông chắc, nụ khít, màu đều, không đốm thâm; lá bao quanh còn tươi.
-- **Bắp cải, cải thảo:** cuốn chặt, nặng tay, lá ngoài không úng nhớt ở chân. Bắp cải tím giữ màu đẹp, hợp làm gỏi và muối chua nhẹ.
-- **Cà rốt:** cầm chắc, vỏ trơn, không nứt, không mềm oặt. Củ vừa thường ngọt hơn củ quá to.
-- **Khoai tây:** vỏ lành, không có mảng xanh, không mọc mầm. Mảng xanh và mầm khoai tây chứa solanine, nên bỏ hẳn những củ như vậy.
-- **Củ dền:** vỏ trơn, không mềm, cầm nặng; nếu còn lá thì lá tươi, không úng.
-- **Su su:** chọn quả non, vỏ xanh nhạt, gai mềm. Ngọn su su là món rau xào được nhiều người tìm khi lên Đà Lạt.
-- **Xà lách các loại:** lá giòn, không úng mép. Đây là loại khó mang đi xa nhất, nên mua sát giờ về.
-- **Dâu tây:** quả đỏ đều tới cuống, cuống xanh tươi, không dập; mua hộp nông, tránh hộp xếp nhiều lớp.
+Nước atiso là một thức uống thay cho nước ngọt, không phải thứ để uống bù cho bữa ăn thiếu rau. Nếu bạn thích có một tách trà ấm cho buổi tối thư thả sau chuyến đi, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là một lựa chọn thảo mộc khác để thay đổi vị.
 
-Có một điều chúng tôi muốn nói thẳng: chữ "Đà Lạt" trên một sạp rau ở thành phố, hay ngay cả trên bao bì, không phải là bằng chứng về nơi trồng. Rau củ ôn đới giờ được trồng ở nhiều nơi, và chữ "Đà Lạt" nhiều khi chỉ là tên gọi một kiểu rau. Mua tận nơi giúp bạn bớt băn khoăn chuyện này, nhưng ngay cả ở Đà Lạt, hàng nhập từ nơi khác về bán vẫn có. Cách chấm hàng bằng mắt và tay trong bài [Cách chọn rau củ tươi sạch ngoài chợ](cach-chon-rau-cu-tuoi-sach-ngoai-cho.html) vẫn đáng tin hơn một cái nhãn.
+## Rau củ khác ở chợ Đà Lạt: phần đáng để ý
+
+Với rau củ thông dụng như súp lơ, bắp cải, cà rốt, củ dền, nguyên tắc chọn ở Đà Lạt cũng giống mọi chợ: chắc, nặng tay, không úng, không đốm thâm; xem đủ dấu hiệu trong bài [Cách chọn rau củ tươi sạch ngoài chợ](cach-chon-rau-cu-tuoi-sach-ngoai-cho.html). Dưới đây chỉ là những thứ riêng của chuyến mua ở Đà Lạt:
+
+- **Su su và ngọn su su:** chọn quả non, vỏ xanh nhạt, gai mềm. Ngọn su su là món rau xào nhiều người tìm khi lên Đà Lạt, nhưng héo rất nhanh, nên mua sáng ngày về và nấu trong một, hai ngày.
+- **Dâu tây:** quả đỏ đều tới cuống, cuống xanh tươi, không dập; mua hộp nông, tránh hộp xếp nhiều lớp vì lớp dưới hay bị đè nát. Hộp đẹp nhất là hộp mà quả lớp dưới cũng đỏ như lớp trên.
+- **Khoai tây:** bỏ củ có mảng xanh hoặc đã mọc mầm. Theo MedlinePlus (Thư viện Y khoa Quốc gia Hoa Kỳ), chất solanine tập trung nhiều ở khoai tây xanh và mầm non; khoai không xanh và đã bỏ hết mầm thì ăn được. Khoai mua về để nơi tối, thoáng để khỏi xanh vỏ.
+- **Xà lách các loại:** loại khó mang đi xa nhất, chỉ mua nếu bạn về trong ngày.
+
+**Nhận diện hàng "Đà Lạt".** Chữ "Đà Lạt" trên một sạp rau ở thành phố, hay ngay cả trên bao bì, không phải bằng chứng về nơi trồng; rau củ ôn đới giờ trồng ở nhiều vùng, và ngay tại chợ Đà Lạt cũng có hàng nhập từ nơi khác về. Vài dấu hiệu thực tế: hỏi người bán lấy hàng từ vườn nào, xã nào và để ý họ trả lời cụ thể hay chung chung; ưu tiên hàng có tem truy xuất hoặc nhãn hợp tác xã; với atiso khô, gói có tên cơ sở sản xuất và địa chỉ ở Lâm Đồng đáng tin hơn hàng xá không nhãn.
 
 ## Mang rau củ Đà Lạt về nhà mà không héo
 
-Đây là phần nhiều người làm sai nhất, và cũng là phần giúp bạn không phải bỏ đi một nửa số quà.
+Đây là phần nhiều người làm sai nhất, như câu chuyện bốn bông atiso ở đầu bài.
 
 **Không rửa trước khi đóng.** Nước đọng lại trong thùng kín là nguyên nhân chính khiến rau úng trên đường. Rau củ chỉ rửa khi chuẩn bị nấu.
 
-**Tách nhóm.** Củ quả cứng (cà rốt, khoai tây, củ dền, su su) đóng riêng; rau lá (xà lách, cải) đóng riêng; atiso và dâu tây mỗi thứ một hộp. Củ cứng đè lên rau lá là dập ngay sau vài tiếng xe xóc.
+**Tách nhóm.** Củ quả cứng (cà rốt, khoai tây, củ dền, su su) đóng riêng; rau lá đóng riêng; atiso và dâu tây mỗi thứ một hộp. Củ cứng đè lên rau lá là dập ngay sau vài tiếng xe xóc.
 
-**Bọc giấy, chừa lỗ thở.** Bọc rau lá và atiso bằng giấy bếp hoặc giấy báo sạch để hút ẩm. Dùng thùng carton hoặc thùng xốp có khoét vài lỗ thông hơi; túi nilon buộc kín là cách nhanh nhất làm rau "đổ mồ hôi" rồi úng.
+**Bọc giấy, chừa lỗ thở.** Bọc từng bông atiso và rau lá bằng giấy bếp hoặc giấy báo sạch để hút ẩm, để nguyên cuống atiso. Dùng thùng carton hoặc thùng xốp có khoét vài lỗ thông hơi; túi nilon buộc kín là cách nhanh nhất làm rau "đổ mồ hôi" rồi úng.
 
-**Mua theo thứ tự.** Củ cứng mua từ ngày đầu cũng được. Rau lá, dâu tây, atiso tươi nên mua vào buổi sáng cuối cùng.
+**Mua theo thứ tự.** Củ cứng mua từ ngày đầu cũng được. Rau lá, dâu tây, atiso tươi mua vào buổi sáng cuối cùng.
 
-**Về tới nhà xử lý ngay.** Mở thùng, nhặt bỏ lá dập để không lây sang lá lành, cho rau lá vào hộp có lót giấy trong ngăn mát, củ cứng như khoai tây thì để nơi khô ráo, tối, thoáng. Nguyên tắc chung về nhiệt độ, thời gian bảo quản từng nhóm có trong bài [Bảo quản thực phẩm đúng cách](bao-quan-thuc-pham-dung-cach.html).
+**Về tới nhà xử lý ngay.** Mở thùng, nhặt bỏ lá dập để không lây sang lá lành, cho atiso và rau lá vào ngăn mát, nấu atiso trong vài ngày đầu vì để lâu lá bắc khô dần và đế mất độ ngọt. Nhiệt độ và thời gian bảo quản từng nhóm có trong bài [Bảo quản thực phẩm đúng cách](bao-quan-thuc-pham-dung-cach.html). Khi rửa, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ khuyên rửa dưới vòi nước chảy, chà nhẹ củ cứng bằng bàn chải sạch, không cần xà phòng hay chất tẩy rửa.
 
-Khi rửa, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ khuyên rửa rau củ dưới vòi nước chảy, chà nhẹ củ cứng bằng bàn chải sạch, và không cần dùng xà phòng hay chất tẩy rửa. Bỏ lớp lá ngoài cùng của bắp cải, cải thảo trước khi rửa.
+## Mua bao nhiêu là vừa: giỏ đồ mẫu cho nhà 3-4 người
 
-## Lịch trình gợi ý theo nhịp "đi chợ, nấu ăn, nghỉ ngơi"
+Chúng tôi không in giá bán lẻ trong bài, vì giá rau Đà Lạt thay đổi theo tuần và theo thời tiết. Để thấy khoảng cách giữa vườn và chợ: Tạp chí Công Thương (10/2023) ghi giá atiso tươi thu mua ở Lâm Đồng khi đó khoảng 5,7 triệu đồng một tấn, tức chưa tới 6.000 đồng một kg tại vườn, còn giá bạn trả ở sạp chợ đã cộng thêm công thu hái, chọn bông, vận chuyển và mặt bằng, nên chênh với giá vườn là chuyện bình thường. Đó là lý do nên hỏi giá vài nơi.
 
-Không phải ai đi Đà Lạt cũng muốn chạy hết điểm này tới điểm khác. Dưới đây là vài khung lịch dành cho người muốn chuyến đi chậm hơn, có thời gian cho bữa ăn và chợ búa.
+Thay cho bảng giá, đây là cách ước lượng lượng mua. Tổ chức Y tế Thế giới khuyến nghị mỗi người ăn ít nhất 400 g rau và trái cây mỗi ngày. Một nhà bốn người như vậy cần khoảng 1,6 kg rau và trái cây một ngày, tính cả rau mua ở chợ gần nhà. Phần mang từ Đà Lạt về chỉ nên chiếm những bữa trong năm, sáu ngày đầu, lúc hàng còn tươi. Một giỏ mẫu cho nhà 3-4 người:
 
-**2 ngày 1 đêm.** Ngày đầu: tới nơi, đi dạo quanh hồ Xuân Hương, chiều ghé một vườn rau hoặc vườn atiso ở vùng ven, tối ăn một bữa có nhiều rau như lẩu rau, hoặc atiso hầm ở quán. Ngày thứ hai: dậy sớm đi chợ Đà Lạt khi khu rau vừa mở, mua quà theo thứ tự trong bài, ăn sáng rồi về.
+- **Atiso tươi: 4 đến 6 bông cỡ vừa.** Đủ cho một nồi hầm (2 đến 3 bông) và một bữa luộc chấm hoặc áp chảo.
+- **Củ cứng: khoảng 3 kg.** Ví dụ 1 kg cà rốt, 1 kg khoai tây, 0,5 kg củ dền, 2 đến 3 quả su su. Nhóm này để được lâu nhất.
+- **Rau bông và cải: 1 đến 2 bắp cải hoặc súp lơ.** Nhiều hơn thì thường phải bỏ lá ngoài vì dập.
+- **Dâu tây: 1 đến 2 hộp loại 500 g.** Ăn trong hai, ba ngày.
+- **Atiso khô: khoảng 100 g.** Với mức 5 đến 10 g mỗi lít, đủ nấu chừng mười đến hai mươi lần.
 
-**3 ngày 2 đêm.** Thêm một ngày ở giữa cho một điểm thiên nhiên bạn thích (đồi, rừng thông, hồ), một bữa trưa nhẹ có salad và đế atiso áp chảo nếu bạn ở homestay có bếp. Chợ để dành cho sáng ngày cuối.
+Cộng thêm một khoản cho thùng xốp, giấy gói và phí gửi hàng nếu bạn đi máy bay mà không muốn xách tay.
 
-**Gia đình có trẻ nhỏ.** Chọn chỗ ở gần trung tâm hoặc gần điểm chính để bớt đường dốc; ưu tiên những vườn có lối đi bằng phẳng. Trẻ thường thích nhất vườn dâu và bữa atiso luộc ngồi bóc từng lá. Mang đủ áo ấm cho buổi tối.
+## Mùa nào mua atiso và rau ở Đà Lạt
 
-**Có người lớn tuổi.** Giảm số điểm mỗi ngày xuống còn một, hai; tránh các tuyến đèo vào giờ sương mù sáng sớm; để người lớn nghỉ trưa. Đi chợ vào khoảng giữa buổi sáng, khi đã ấm hơn và chợ bớt chen chúc.
+Nhờ trồng trong nhà kính, nhà lưới, phần lớn rau củ Đà Lạt có gần như quanh năm, nên "mùa" ở đây là chuyện hàng nhiều hơn, đẹp hơn, chứ không phải tháng này có, tháng kia không.
 
-**Gặp mưa.** Mưa Đà Lạt thường đến buổi chiều. Dồn hoạt động ngoài trời vào buổi sáng, chiều chuyển sang quán cà phê, bảo tàng, chợ có mái che, hoặc đơn giản là ở lại chỗ nghỉ, tự nấu một nồi atiso hầm. Mùa mưa cũng là lúc nên mua củ cứng thay vì rau lá.
+Riêng atiso, các bài báo địa phương cho mốc khá cụ thể. Tạp chí Công Thương (10/2023) viết mùa thu hoạch atiso thường từ tháng 1 đến tháng 3 hằng năm. Báo Lâm Đồng (10/2023), khi kể về một hợp tác xã atiso ở Thái Phiên, ghi lịch thu hoạch bông và thân từ tháng 11 đến tháng 1 năm sau. Cộng lại, khoảng cuối năm đến đầu năm sau là lúc nhiều người ghi nhận atiso tươi bày nhiều ở chợ nhất.
 
-## Chi phí: lập ngân sách thế nào cho chuyến đi chợ
+Về thời tiết, theo kinh nghiệm của nhiều người hay lên Đà Lạt, mùa mưa thường rơi vào khoảng tháng 5 đến tháng 10, mưa hay đến buổi chiều; mùa khô từ khoảng tháng 12 tới tháng 4. Mùa mưa rau lá dễ úng và dập hơn khi đi đường xa; mùa khô hàng thường đẹp mã và dễ mang về hơn. Đó là quan sát thực tế, không phải lịch thời vụ chính thức, và từng năm có thể lệch.
 
-Chúng tôi không ghi giá cụ thể trong bài này, vì giá rau củ ở Đà Lạt lên xuống theo mùa, theo thời tiết, theo từng tuần, và một con số in sẵn sẽ sai nhanh hơn bạn nghĩ. Thay vào đó là cách lập ngân sách ít bị hớ:
+## Vùng trồng rau và atiso quanh Đà Lạt
 
-- **Tách ba khoản:** ăn uống tại chỗ, mua rau củ tươi, mua quà khô (atiso khô, mứt, hạt). Khoản thứ ba thường phình to nhất vì dễ mua theo cảm hứng.
-- **Đặt trần cho khoản mua tươi** theo số ngày bạn nấu được ở nhà. Mua nhiều hơn mức cả nhà ăn hết trong một tuần là mua để bỏ.
-- **Hỏi giá ít nhất ba nơi** trước khi mua lượng lớn, và hỏi rõ giá theo cân hay theo bông, theo túi.
-- **Cộng thêm chi phí mang về:** thùng, phí gửi hàng nếu bạn đi máy bay và không muốn xách tay.
+Nếu muốn tận mắt thấy atiso đang trồng, đây là những khu vực có tên trong báo chí địa phương:
+
+- **Thái Phiên (nay thuộc phường Lâm Viên - Đà Lạt).** Làng hoa cách trung tâm khoảng 7 km, nơi atiso là cây trồng gắn bó lâu năm và có hợp tác xã sản xuất atiso. Đi xe máy hoặc taxi; nên ghé buổi sáng, mua atiso khô có nhãn của cơ sở sản xuất tại chỗ, còn bông tươi thì tuỳ vườn có bán lẻ hay không.
+- **Các phường 11, 12 cũ của Đà Lạt.** Tạp chí Công Thương nêu đây là nơi trồng atiso nhiều ở Lâm Đồng (phường 12 cũ là khu Thái Phiên). Đây là vùng sản xuất chứ không phải điểm tham quan, hợp với người tự đi xe, ghé các vựa ven đường mua củ cứng và bông atiso.
+- **Vùng Lạc Dương (các xã Đa Nhim, Đa Sar, Đa Chais, Lát cũ).** Cũng là vùng trồng atiso theo cùng nguồn, xa trung tâm hơn, đường đồi dốc; hợp với chuyến đi một ngày kết hợp cảnh quan, không hợp với việc mua rau lá mang về.
+
+Một điều thực tế: mua ở vườn không phải lúc nào cũng rẻ hơn chợ, vì nhiều vườn mở cho khách tính cả phần trải nghiệm. Coi đó là một buổi đi chơi, còn mua số lượng lớn thì chợ Đà Lạt vẫn tiện nhất.
+
+## Nếu bạn lên Đà Lạt có kèm việc đi chợ
+
+Vài thông tin ngắn để lên kế hoạch. Từ TP.HCM lên Đà Lạt đường bộ khoảng 300 km, xe khách thường mất sáu đến tám tiếng; đi máy bay thì hạ cánh ở Liên Khương, cách trung tâm khoảng 30 km. Thời gian di chuyển này quyết định bạn nên mua rau lá hay chỉ mua củ cứng.
+
+Khu rau tươi của chợ Đà Lạt bán từ sáng sớm, hàng đẹp nhất khi chợ mới mở; buổi tối phía trước chợ là chợ đêm, chủ yếu đồ ăn và đồ lưu niệm, rau lúc đó thường là hàng còn lại trong ngày. Ai từng ra chợ lúc sáu giờ sáng sẽ thấy khác biệt ngay: những bông atiso mới dỡ từ xe xuống, lá bắc còn đọng sương, cầm chắc tay hơn hẳn những bông bày từ trưa hôm trước.
+
+Từ 1/7/2025, Đà Lạt không còn là thành phố trực thuộc tỉnh; khu nội thị cũ chia thành các phường tên ghép như Xuân Hương - Đà Lạt, Lâm Viên - Đà Lạt, Lang Biang - Đà Lạt. Khi gửi rau củ qua đơn vị vận chuyển, hãy ghi đúng tên phường mới để đơn không bị trả về vì địa chỉ cũ.
 
 ## Tóm lại
 
-Đà Lạt cho người đi chơi một thứ quà hiếm có: rau củ ôn đới tươi, ngay tại nơi trồng. Muốn món quà ấy về tới bếp nhà mình còn tươi, hãy nhớ ba việc. Chọn bằng mắt và tay chứ không bằng nhãn. Đóng gói khô, tách nhóm, chừa lỗ thở, mua rau lá vào sáng cuối cùng. Và đừng để atiso nằm im trong tủ: cắt ngọn, ngâm chanh, hầm hoặc luộc 25 đến 45 phút, ăn phần thịt ở gốc lá và phần đế.
+- Chọn atiso bằng mắt và tay: còn búp, nặng tay, cuống tươi; đừng trả thêm tiền chỉ vì chữ "Đà Lạt" trên nhãn.
+- Đóng gói khô, tách nhóm, chừa lỗ thở, và mua theo giỏ mẫu cho vài ngày đầu thay vì mua cho cả tháng.
+- Atiso tươi để hầm, luộc, áp chảo; atiso khô nấu nước nhạt khoảng 5 đến 10 g mỗi lít.
 
-Một bữa ăn lành mạnh cần nhiều màu rau, đủ đạm, đủ tinh bột tốt, và hợp với chính cơ thể bạn. Nếu bạn muốn biết thể trạng mình đang nghiêng về đâu để chọn món hợp hơn, hãy dành 90 giây [kiểm tra thể trạng](https://ikihealing.com/quiz). Và nếu muốn đổi màu cho thực đơn tuần tới, bài [Ăn rau củ nhiều màu sắc](an-rau-cu-nhieu-mau-sac.html) có thêm gợi ý.
+Một bữa ăn lành mạnh cần nhiều màu rau, đủ đạm, đủ tinh bột tốt, và hợp với chính cơ thể bạn. Nếu muốn biết thể trạng mình đang nghiêng về đâu để chọn món hợp hơn, bạn có thể dành 90 giây [kiểm tra thể trạng](https://ikihealing.com/quiz). Và nếu muốn đổi màu cho thực đơn tuần tới, bài [Ăn rau củ nhiều màu sắc](an-rau-cu-nhieu-mau-sac.html) có thêm gợi ý.
 
 ## Nguồn tham khảo
 
-- Tổ chức Y tế Thế giới — *Healthy diet* (khuyến nghị ăn ít nhất 400 g rau và trái cây mỗi ngày trong một chế độ ăn đa dạng): [who.int](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
-- Bộ Nông nghiệp Hoa Kỳ — *FoodData Central* (cơ sở dữ liệu thành phần dinh dưỡng thực phẩm, mục Artichokes, globe): [fdc.nal.usda.gov](https://fdc.nal.usda.gov/)
-- Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ — *7 Tips for Cleaning Fruits, Vegetables* (rửa rau củ dưới vòi nước chảy, không dùng xà phòng): [fda.gov](https://www.fda.gov/consumers/consumer-updates/7-tips-cleaning-fruits-vegetables)
-- Memorial Sloan Kettering Cancer Center — *Artichoke* (thông tin về atiso, lưu ý dị ứng họ Cúc và thận trọng với người có bệnh lý túi mật khi dùng dạng chiết xuất): [mskcc.org](https://www.mskcc.org/cancer-care/integrative-medicine/herbs/artichoke)
-- Nghị quyết số 202/2025/QH15 của Quốc hội về sắp xếp đơn vị hành chính cấp tỉnh (hợp nhất Lâm Đồng, Đắk Nông, Bình Thuận thành tỉnh Lâm Đồng, có hiệu lực từ 1/7/2025).
+- Tổ chức Y tế Thế giới — *Healthy diet* (khuyến nghị ăn ít nhất 400 g rau và trái cây mỗi ngày): [who.int](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
+- Bộ Nông nghiệp Hoa Kỳ — *FoodData Central*, mục Artichokes, (globe or french), cooked, boiled, drained, without salt (mã 168386): [fdc.nal.usda.gov](https://fdc.nal.usda.gov/food-details/168386/nutrients)
+- MedlinePlus, Thư viện Y khoa Quốc gia Hoa Kỳ — *Potato plant poisoning - green tubers and sprouts*: [medlineplus.gov](https://medlineplus.gov/ency/article/002875.htm)
+- Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ — *7 Tips for Cleaning Fruits, Vegetables*: [fda.gov](https://www.fda.gov/consumers/consumer-updates/7-tips-cleaning-fruits-vegetables)
+- Memorial Sloan Kettering Cancer Center — *Artichoke* (lưu ý dị ứng họ Cúc, thận trọng với bệnh lý túi mật khi dùng dạng chiết xuất): [mskcc.org](https://www.mskcc.org/cancer-care/integrative-medicine/herbs/artichoke)
+- Tạp chí Công Thương — *Atiso - Dược liệu "vàng" trên đất Lâm Đồng* (13/10/2023; vùng trồng, mùa thu hoạch, giá thu mua): [tapchicongthuong.vn](https://tapchicongthuong.vn/magazine/atiso-duoc-lieu--vang--tren-dat-lam-dong-112252.htm)
+- Báo Lâm Đồng — *Phát triển nghề truyền thống sản xuất atiso Đà Lạt* (06/10/2023): [baolamdong.vn](https://baolamdong.vn/phat-trien-nghe-truyen-thong-san-xuat-atiso-da-lat-271855.html)
+- VnExpress — *Ba làng hoa nổi tiếng Đà Lạt* (khoảng cách làng Thái Phiên tới trung tâm): [vnexpress.net](https://vnexpress.net/ba-lang-hoa-noi-tieng-da-lat-2919943.html)
+- Nghị quyết số 202/2025/QH15 của Quốc hội về sắp xếp đơn vị hành chính cấp tỉnh (có hiệu lực từ 1/7/2025).
 
 Nội dung trong bài mang tính chia sẻ kiến thức về thực phẩm và lối sống, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Người có dị ứng thực phẩm, có bệnh lý đang theo dõi, đang mang thai, cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi thay đổi chế độ ăn hay dùng các dạng cô đặc từ thảo dược.
