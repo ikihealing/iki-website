@@ -116,3 +116,13 @@
     } catch (e) { }
   }, true);
 })();
+
+// Nút "Hợp tác" trên đầu trang (25/11/2026): nguon.js có mặt trên gần mọi trang nên nạp hộ hop-tac.js
+// từ đây, khỏi chép thẻ vào ~900 trang. Hỏng thì chỉ mất nút, không ảnh hưởng form.
+(function () {
+  try {
+    if (window.__ikiHopTac || document.querySelector('script[src*="/assets/js/hop-tac.js"]')) return;
+    var s = document.createElement("script"); s.src = "/assets/js/hop-tac.js"; s.defer = true;
+    (document.head || document.documentElement).appendChild(s);
+  } catch (e) { }
+})();
