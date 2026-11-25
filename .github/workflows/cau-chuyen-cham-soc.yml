@@ -1,0 +1,40 @@
+name: Câu chuyện chăm sóc khách hàng
+
+# Mỗi ngày kéo các câu chuyện quản lý đã duyệt trên hope-ops-hub (/cau-chuyen-khach) về Góc chia sẻ.
+# Nguồn: cuộc gọi chăm sóc khách, khách đã đồng ý, đã qua rào từ cấm hai lần (ops-hub + lint-cam-nhan ở đây).
+# 9h31 sáng giờ VN (CEO 23/08: việc lặp theo ngày chạy buổi sáng, rải lệch phút).
+on:
+  schedule:
+    - cron: '31 2 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-blog
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Dựng trang câu chuyện từ bản đã duyệt
+        run: node scripts/cau-chuyen-cham-soc.mjs
+      - name: Kiểm luật web — còn vi phạm thì dừng, không commit
+        run: node scripts/kiem-luat-web.mjs
+      - name: Commit nếu có câu chuyện mới
+        run: |
+          git config user.name "hope-blog-bot"
+          git config user.email "bot@hopecorp.vn"
+          git add blog/cau-chuyen-thay-doi sitemap.xml llms.txt $(ls data/cau-chuyen-cham-soc.json 2>/dev/null)
+          if git diff --cached --quiet; then
+            echo "Không có câu chuyện mới."
+          else
+            git commit -m "Câu chuyện chăm sóc khách hàng: cập nhật từ bản đã duyệt [skip ci]"
+            git push
+          fi
