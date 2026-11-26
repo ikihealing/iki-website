@@ -480,3 +480,9 @@ Bài mới: chạy `node scripts/anh-that-hero.mjs <slug> "<từ khoá tiếng A
 | `chat-tao-ngot-thay-duong-co-an-toan-khong-hero.jpg` | [485055](https://pixabay.com/photos/sugar-trickle-spoon-cutlery-485055/) | 422737 |
 | `che-do-an-dia-trung-hai-hero.jpg` | [4855955](https://pixabay.com/photos/still-life-food-olive-oil-tomatoes-4855955/) | Angeleses |
 | `suc-khoe-cho-nhan-vien-hanh-chinh-hero.jpg` | [10562971](https://pixabay.com/photos/office-worker-office-employee-10562971/) | Sohidullah007 |
+
+## Bài mới (sau 20/11/2026)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `nguoi-tieu-duong-an-sang-gi-hero.jpg` | [3171723](https://pixabay.com/photos/oatmeal-oat-porridge-healthy-food-3171723/) | cgdsro |
