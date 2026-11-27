@@ -486,3 +486,4 @@ Bài mới: chạy `node scripts/anh-that-hero.mjs <slug> "<từ khoá tiếng A
 | Ảnh | Pixabay | Người chụp |
 |---|---|---|
 | `nguoi-tieu-duong-an-sang-gi-hero.jpg` | [3171723](https://pixabay.com/photos/oatmeal-oat-porridge-healthy-food-3171723/) | cgdsro |
+| `ba-bau-3-thang-giua-nen-an-gi-hero.jpg` | [7214373](https://pixabay.com/photos/pregnancy-heart-woman-pregnant-7214373/) | Robster_91 |
