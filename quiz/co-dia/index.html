@@ -94,17 +94,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="teaser">Đây mới là phần mở đầu — bản đầy đủ (hướng dẫn dưỡng sinh, huyệt vị, theo dõi tiến bộ 90 ngày) nằm trong app IKIHEALING, miễn phí.</div>
   <a class="btn" href="https://app.ikihealing.com/?utm_source=quiz_codia&utm_medium=web&utm_campaign=vi" target="_blank" rel="noopener">Mở app IKIHEALING miễn phí →</a>
   <div class="email">
-    <b style="font-size:.95rem">Nhận nhắc đo lại sau 90 ngày</b>
-    <p style="color:var(--muted);font-size:.86rem;margin:.3rem 0">Cơ địa đổi theo mùa và nếp sống. Để lại email — 3 tháng nữa IKIHEALING nhắc bạn đo lại xem mình đã dịch chuyển thế nào.</p>
-    <input id="em" type="email" placeholder="email@cua-ban.com"/>
+    <b style="font-size:.95rem">Nhận gợi ý món ăn theo cơ địa + nhắc đo lại sau 90 ngày</b>
+    <p style="color:var(--muted);font-size:.86rem;margin:.3rem 0">Để lại số Zalo hoặc email — IKIHEALING gửi bạn gợi ý món ăn hợp với cơ địa vừa đo, và 3 tháng nữa nhắc bạn đo lại xem mình đã dịch chuyển thế nào.</p>
+    <input id="sdt" type="tel" inputmode="tel" placeholder="Số Zalo / điện thoại"/>
+    <input id="em" type="email" placeholder="hoặc email@cua-ban.com"/>
     <div class="iki-dy" id="dyBox">
       <label><input type="checkbox" id="dySk"/><span>Tôi đồng ý để IKIHEALING xử lý các câu trả lời về thói quen và cảm nhận sức khoẻ tôi tự khai (dữ liệu nhạy cảm) để tính 6 chỉ số, mở kết quả và gửi thực đơn theo thể trạng.</span></label>
       <label><input type="checkbox" id="dyTin"/><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKIHEALING qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
-      <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKIHEALING (Công ty CP TMDV HOPE) dùng email để gửi nhắc đo lại sau 90 ngày và kết quả thể trạng theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+      <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKIHEALING (Công ty CP TMDV HOPE) dùng số điện thoại / email bạn để lại để gửi gợi ý món ăn, nhắc đo lại sau 90 ngày và kết quả thể trạng theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
       <p id="dyErr" class="hide" style="color:#c0392b;font-size:.85rem;margin:6px 0 0">Bạn cần đồng ý để IKIHEALING tính kết quả cho bạn.</p>
     </div>
-    <button class="btn2" id="sendb" onclick="sendLead()">Đăng ký nhắc</button>
-    <p id="sentmsg" class="hide" style="color:var(--teal);font-weight:700;font-size:.9rem">Đã đăng ký! Hẹn gặp lại sau 90 ngày.</p>
+    <button class="btn2" id="sendb" onclick="sendLead()">Nhận gợi ý</button>
+    <p id="sentmsg" class="hide" style="color:var(--teal);font-weight:700;font-size:.9rem">Đã nhận! IKIHEALING sẽ gửi gợi ý món ăn theo cơ địa cho bạn.</p>
   </div>
 </div>
 <p class="legal">IKIHEALING là người đồng hành chăm sóc sức khoẻ chủ động, không phải dịch vụ y tế. Kết quả chỉ mô tả xu hướng thói quen và cảm nhận cơ thể, không phải chẩn đoán và không thay thế tư vấn y khoa. Nếu có triệu chứng kéo dài, hãy đi khám.</p>
@@ -129,11 +130,11 @@ document.getElementById("rname").textContent=r.name;document.getElementById("rde
 document.getElementById("rfoods").innerHTML=r.foods.map(f=>'<span class="chip">'+f+'</span>').join("");
 document.getElementById("rtip").textContent=r.tip;window.scrollTo({top:0});try{gtag('event','quiz_codia_result',{pattern:patt})}catch(e){}
 fetch("https://hope-ops-hub.vercel.app/api/quiz-data",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({pattern:patt,locale:"vi",answers:Object.values(ans),han:han,hu:hu,source:"quiz-codia:vi"}),keepalive:true}).catch(()=>{});}
-function sendLead(){const em=document.getElementById("em").value.trim();if(!/^[A-Za-z0-9._%+-]+@[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)*\.[A-Za-z]{2,}$/.test(em))return;
+function sendLead(){const em=document.getElementById("em").value.trim();const sdt=document.getElementById("sdt").value.replace(/\D/g,"");const okEm=/^[A-Za-z0-9._%+-]+@[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)*\.[A-Za-z]{2,}$/.test(em);const okSdt=/^(84|0)?(3|5|7|8|9)\d{8}$/.test(sdt);if(!okEm&&!okSdt)return;
 const sk=document.getElementById("dySk"),dyErr=document.getElementById("dyErr");if(!(sk&&sk.checked)){dyErr.classList.remove("hide");return;}dyErr.classList.add("hide");
 const r=D.pt[patt]||{};
-fetch("https://hope-ops-hub.vercel.app/api/quiz-submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:"",email:em,profile:patt,profileName:r.name||"",answers:Object.values(ans),dongY:ikiDongY("#dyBox"),source:"quiz-codia:vi:"+patt}),keepalive:true}).catch(()=>{});
-document.getElementById("sendb").classList.add("hide");document.getElementById("em").classList.add("hide");document.getElementById("dyBox").classList.add("hide");document.getElementById("sentmsg").classList.remove("hide");try{gtag('event','quiz_codia_lead')}catch(e){}}
+fetch("https://hope-ops-hub.vercel.app/api/quiz-submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:"",email:okEm?em:"",phone:okSdt?sdt:"",profile:patt,profileName:r.name||"",answers:Object.values(ans),dongY:ikiDongY("#dyBox"),source:"quiz-codia:vi:"+patt}),keepalive:true}).catch(()=>{});
+document.getElementById("sendb").classList.add("hide");document.getElementById("em").classList.add("hide");document.getElementById("sdt").classList.add("hide");document.getElementById("dyBox").classList.add("hide");document.getElementById("sentmsg").classList.remove("hide");try{gtag('event','quiz_codia_lead')}catch(e){}}
 </script><!-- Zalo OA chat widget -->
 <style>
   .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}
