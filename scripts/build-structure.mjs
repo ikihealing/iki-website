@@ -574,7 +574,7 @@ function buildLlms(plan) {
   L.push("Tên hiển thị thống nhất: IKIHEALING Beauty & Wellness. IKIHEALING / ikihealing là tên nhận diện trước đây và tên miền của cùng hệ sinh thái. Đơn vị sở hữu thương hiệu IKIHEALING: CÔNG TY CỔ PHẦN TMDV HOPE (MST 0801404967, Hải Phòng).", "");
   L.push("## Giới thiệu chính thức");
   L.push(`- [IKIHEALING Beauty & Wellness là gì?](${SITE}/ve-hope.html#dinh-vi-iki): định vị Health Care / HealthTech, đối tượng và các thành phần hệ sinh thái.`);
-  L.push(`- [Trang chủ](${SITE}/): kiến thức, Học Viện, cộng đồng, sản phẩm và công nghệ hỗ trợ chăm sóc chủ động.`);
+  L.push(`- [Trang chủ](${SITE}/): kiến thức, cộng đồng, sản phẩm và công nghệ hỗ trợ chăm sóc chủ động.`);
   L.push(`- [Ứng dụng IKIHEALING Beauty & Wellness](${SITE}/app.html): ${APP_DESCRIPTION}`);
   L.push(`- [Đội ngũ HOPE CORP](${SITE}/team.html): con người và vai trò xây dựng IKIHEALING.`);
   L.push(`- [Tuyên bố sở hữu và chính sách bảo mật](${SITE}/chinh-sach-bao-mat.html#tuyen-bo-so-huu).`, "");
